@@ -1,0 +1,18 @@
+set number
+set tabstop=2
+set shiftwidth=2
+set hlsearch
+hi NonText ctermfg=black guifg=black   
+syntax on
+filetype on
+au BufRead,BufNewFile *.stc setfiletype cel
+au BufRead,BufNewFile *.lp setfiletype cplexlp
+au BufRead,BufNewFile *.acts setfiletype oldowanActs
+au BufRead,BufNewFile *.cl setf opencl
+nmap - $
+ino jj <esc>
+cno jj <c-c>
+cno <c-j> <down>
+cno <c-k> <up>
+cno <c-h> <left>
+cno <c-l> <right>
