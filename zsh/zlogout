@@ -1,0 +1,3 @@
+# Store dirs stack
+# See /plugins/dirspersist.plugin.zsh
+dirpersiststore

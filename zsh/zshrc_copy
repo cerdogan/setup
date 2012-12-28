@@ -1,0 +1,187 @@
+# ==============================================================================
+# System settings
+
+# Limit the core dump size to 0. This could be increased to debug program 
+# crashes.
+limit -s coredumpsize 0
+
+# Load the profile settings.
+source /etc/profile
+
+# Set the ZSH settings location.
+ZSH_HOME=~/.zsh
+
+# ==============================================================================
+# ZSH Options
+
+# -----------------------------------------------------------------
+# General
+
+# If a completion with the cursor in the word was started and it results in only
+# one match, the cursor is placed at the end of the word.
+setopt ALWAYS_TO_END				
+
+# On an ambiguous completion, automatically list choices when the completion 
+# function is called twice in succession.
+setopt BASH_AUTO_LIST 
+
+setopt NO_BEEP CLOBBER
+setopt   AUTO_CD MULTIOS CORRECT_ALL
+
+# Job Control
+setopt   CHECK_JOBS NO_HUP
+
+# History
+setopt   INC_APPEND_HISTORY EXTENDED_HISTORY HIST_IGNORE_DUPS HIST_FIND_NO_DUPS
+setopt EXTENDED_HISTORY HIST_EXPIRE_DUPS_FIRST
+setopt   HIST_REDUCE_BLANKS HIST_SAVE_NO_DUPS
+HISTSIZE=1000
+SAVEHIST=1000
+HISTFILE=~/.history
+DIRSTACKSIZE=20
+
+# Stay compatible to sh and IFS
+setopt SH_WORD_SPLIT
+setopt   notify globdots pushdtohome
+setopt   recexact longlistjobs
+setopt   autoresume pushdsilent
+setopt   autopushd pushdminus extendedglob rcquotes mailwarning
+unsetopt BG_NICE HUP autoparamslash
+
+# Source external files
+for config_file ($ZSH_HOME/lib/*.zsh) source $config_file
+
+# Don't expand files matching:
+fignore=(.o .c~ .old .pro \#)
+
+# Disable Ctl-S Ctl-q
+stty -ixon -ixoff
+
+# ---[ Key bindings ]--------------------------------------------------
+export WORDCHARS='*\[]-.?_~=&;!#$%^(){}'
+
+bindkey -e
+#bindkey "^[[3~" delete-char
+bindkey '\eq' push-line-or-edit
+bindkey '^p' history-search-backward
+bindkey "^[[3A"  history-beginning-search-backward
+bindkey "^[[3B"  history-beginning-search-forward
+
+# ---[ Shell functions ]-----------------------------------------------
+setenv() { typeset -x "${1}${1:+=}${(@)argv[2,$#]}" }  # csh compatibility
+freload() { while (( $# )); do; unfunction $1; autoload -U $1; shift; done }
+
+# ---[ Terminal settings ]---------------------------------------------
+# Enable LS colors
+if test -x =dircolors; then
+    eval "`dircolors`"
+    export LS_COLORS="*.ogm=01;35:${LS_COLORS}"
+    export ZLS_COLORS=$LS_COLORS
+fi
+
+case "$TERM" in
+    linux)
+        bindkey '\e[1~' beginning-of-line # Home
+        bindkey '\e[4~' end-of-line # End
+        #bindkey '\e[3~' delete-char # Del
+        bindkey '\e[2~' overwrite-mode # Insert
+        ;;
+    screen)
+    # In Linux console
+	bindkey '\e[1~' beginning-of-line # Home
+	bindkey '\e[4~' end-of-line # End
+        bindkey '\e[3~' delete-char # Del
+	bindkey '\e[2~' overwrite-mode # Insert
+	bindkey '\e[7~' beginning-of-line # home
+	bindkey '\e[8~' end-of-line # end
+        #In rxvt
+	bindkey '\eOc' forward-word # ctrl cursor right
+	bindkey '\eOd' backward-word # ctrl cursor left
+	bindkey '\e[3~' backward-delete-char # This should not be necessary!
+	;;
+    rxvt*)
+	bindkey '\e[1~' beginning-of-line # home
+	bindkey '\e[4~' end-of-line # end
+	bindkey '\eOc' forward-word # ctrl cursor right
+	bindkey '\eOd' backward-word # ctrl cursor left
+    bindkey '\e[3~' delete-char # Del
+    #bindkey '\e[3~' backward-delete-char # This should not be necessary!
+	bindkey '\e[2~' overwrite-mode # Insert
+	;;
+    xterm*)
+	bindkey "\e[1~" beginning-of-line # Home
+	bindkey "\e[4~" end-of-line # End
+        #bindkey '\e[3~' delete-char # Del
+	bindkey '\e[2~' overwrite-mode # Insert
+	;;
+    sun)
+	bindkey '\e[214z' beginning-of-line        # Home
+	bindkey'\e[220z' end-of-line              # End
+        #bindkey '^J'      delete-char             # del
+	bindkey '^H'      backward-delete-char    # Backspace
+	bindkey '\e[247z' overwrite-mode          # Insert
+	;;
+
+    dumb)
+	unsetopt zle
+	unsetopt prompt_cr
+	unfunction precmd
+	unfunction preexec
+	PS1='$ '
+	;;
+esac
+
+# ---[ Personalized Stuff ]--------------------------------------
+if [[ -a $ZSH_HOME/personal.zsh ]]; then
+   . $ZSH_HOME/personal.zsh
+fi
+
+if [ -n "$INSIDE_EMACS" ]; then
+    chpwd() { print -P "\033AnSiTc %d" }
+    print -P "\033AnSiTu %n"
+    print -P "\033AnSiTc %d"
+fi
+
+# ---[ Completition system ]-------------------------------------------
+#zstyle ':completion:*' completer _expand _complete _correct _approximate
+#zstyle ':completion:*' format '%d:'
+#zstyle ':completion:*' group-name ''
+#zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+#zstyle ':completion:*' matcher-list 'r:|[._-]=* r:|=*'
+#zstyle ':completion:*' max-errors 3
+#zstyle ':completion:*' menu select=2 yes
+#zstyle ':completion:*' prompt 'Alternatives %e:'
+#zstyle ':completion:*' select-prompt %SScrolling active: current selection at %p%s
+#zstyle ':completion:*' usecache on
+#zstyle ':completion:*' cache-path $ZSH_HOME/cache
+#zstyle :compinstall filename $ZSH_HOME/zshrc
+#zstyle ':completion:*:functions' ignored-patterns '_*'
+
+# ---[ Modules ]-------------------------------------------------------
+# zmodload zsh/complist
+autoload -Uz compinit promptinit
+autoload -U zmv
+#autoload -Uz compinit
+#compinit
+promptinit
+zmodload -a zsh/stat stat
+zmodload -a zsh/zpty zpty
+zmodload -ap zsh/mapfile mapfile
+
+zmodload -a colors
+#zmodload -a autocomplete
+#zmodload -a complist
+
+zle -N tcsh-backward-delete-word
+bindkey -s '^[W' backward-delete-word
+bindkey "^[[A" history-search-backward
+bindkey "^[[B" history-search-forward
+
+# ---[ Plugins ]-------------------------------------------------------
+# Source plugins (stolen from oh-my-zsh)
+plugins=( compleat debian dircycle git-flow )
+for plugin ($plugins); do
+    if [ -f $ZSH_HOME/plugins/$plugin/$plugin.plugin.zsh ]; then
+	source $ZSH_HOME/plugins/$plugin/$plugin.plugin.zsh
+    fi
+done
