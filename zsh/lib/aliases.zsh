@@ -7,8 +7,6 @@ alias vi='vim -c ":cd %:p:h"'
 alias pu=pushd
 alias pd=popd
 alias d='dirs -v'
-alias top=htop
-alias grep=egrep
 alias k="ranger"
 alias ls='ls -h -F --group-directories-first --color=auto'
 alias ll='ls -lh --color=auto'
