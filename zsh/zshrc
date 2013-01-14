@@ -32,6 +32,9 @@ unsetopt AUTO_MENU
 # Stop beeping
 setopt NO_BEEP 
 
+# Stop asking if I want to delete everything
+setopt rmstarsilent
+
 # Allows > redirection to truncate existing files, and >> to create files. 
 setopt CLOBBER
 
