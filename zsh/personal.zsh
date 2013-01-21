@@ -1,3 +1,7 @@
+# tmux
+tmux source-file ~/.tmux.conf
+if [ "$TMUX" = "" ]; then tmux; fi
+
 # Binaries
 alias gdb='gdb --args'
 alias make='for i in {1..25}; do echo ""; done; clear; make'
@@ -8,6 +12,7 @@ alias valgrind='valgrind --tool=memcheck --leak-check=yes --show-reachable=yes -
 # Aliases
 alias cl='/home/cerdogan/Documents/School/Random/OpenCL/'
 alias grep='grep -n --color=tty'
+alias tname='tmux rename-window' 
 
 # Paths
 export GTEST_DIR='/home/cerdogan/.Tools/gtest-1.6.0/include/'
