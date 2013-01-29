@@ -1,6 +1,7 @@
 # Allow switching the currently focused pane by mouse click.
 setw -g mode-mouse on
 set-option -g mouse-select-pane on
+set -g mode-mouse on
 
 # Set the title of the current window to something descriptive for the entire tmux session
 set-option -g set-titles on

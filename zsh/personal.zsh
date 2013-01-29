@@ -19,3 +19,5 @@ export GTEST_DIR='/home/cerdogan/.Tools/gtest-1.6.0/include/'
 export INPUTRC='/home/cerdogan/.inputrc'
 export PATH=$PATH:'/usr/local/MATLAB/R2012a/bin'
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:'/usr/local/lib:/home/cerdogan/Documents/RubeGoldberg/Revisited/build:/opt/AMDAPP/lib/x86_64:/opt/AMDAPP/lib/x86:/usr/lib/fglrx'
+export MATLAB_JAVA=/usr/lib/jvm/java-7-openjdk-amd64/jre
+
