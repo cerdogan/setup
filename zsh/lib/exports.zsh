@@ -11,7 +11,7 @@ export PATH=~/usr/local/cuda/:~/bin:~/opt/android_sdk/tools/:/usr/share/pk2:/opt
 export VISUALWORKS=~/vw7.6nc
 export PYTHONSTARTUP="$HOME/.pystartup"
 export ICAROOT=~/opt/ICAClient/linuxx86
-export TMPDIR=~/tmp/
+export TMPDIR=/tmp/
 
 
 export DE="gnome"
