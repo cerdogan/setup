@@ -13,6 +13,8 @@ alias valgrind='valgrind --tool=memcheck --leak-check=yes --show-reachable=yes -
 alias cl='/home/cerdogan/Documents/School/Random/OpenCL/'
 alias grep='grep -n --color=tty'
 alias tname='tmux rename-window' 
+alias kdoc='cd /home/cerdogan/Documents/Krang/Documentation'
+alias ksoft='cd /home/cerdogan/Documents/Krang/Software'
 
 # Paths
 export GTEST_DIR='/home/cerdogan/.Tools/gtest-1.6.0/include/'
