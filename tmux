@@ -17,9 +17,18 @@ setw -g aggressive-resize on
 # History!
 set -g history-limit 100000
 
-# Some key bindings for convenience
+# Some key bindings for convenience for window splitting
 bind-key | split-window -h
 bind-key - split-window -v
+bind-key k select-pane -U
+bind-key j select-pane -D
+bind-key h select-pane -L
+bind-key l select-pane -R
+#bind-key -n C-h run-shell "~/.scripts/tmux_or_vim_select_pane.sh h L"
+#bind-key -n C-j run-shell "~/.scripts/tmux_or_vim_select_pane.sh j D"
+#bind-key -n C-k run-shell "~/.scripts/tmux_or_vim_select_pane.sh k U"
+#bind-key -n C-l run-shell "~/.scripts/tmux_or_vim_select_pane.sh l R"
+
 
 set -g status-bg black
 set -g status-fg white 
