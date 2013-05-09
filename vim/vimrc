@@ -2,6 +2,8 @@ set number
 set tabstop=2
 set shiftwidth=2
 set hlsearch
+set nocompatible
+set history=10000
 hi NonText ctermfg=black guifg=black   
 syntax on
 filetype on
