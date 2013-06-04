@@ -1,3 +1,5 @@
+set-option -g default-shell /bin/zsh
+
 # Allow switching the currently focused pane by mouse click.
 setw -g mode-mouse on
 set-option -g mouse-select-pane on
