@@ -15,6 +15,8 @@ alias grep='grep -n --color=tty'
 alias tname='tmux rename-window' 
 alias kdoc='cd /home/cerdogan/Documents/Krang/Documentation'
 alias ksoft='cd /home/cerdogan/Documents/Krang/Software'
+alias isrr='cd /home/cerdogan/Documents/MacGyver/ISRR'
+alias scenes='cd /home/cerdogan/Documents/MacGyver/3rdParty/simulation/scenes'
 
 # Paths
 export GTEST_DIR='/home/cerdogan/.Tools/gtest-1.6.0/include/'
@@ -23,3 +25,5 @@ export PATH=$PATH:'/usr/local/MATLAB/R2012a/bin'
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:'/usr/local/lib:/home/cerdogan/Documents/RubeGoldberg/Revisited/build:/opt/AMDAPP/lib/x86_64:/opt/AMDAPP/lib/x86:/usr/lib/fglrx'
 export MATLAB_JAVA=/usr/lib/jvm/java-7-openjdk-amd64/jre
 
+# Research
+export OPENRAVE_PLUGINS='/home/cerdogan/Documents/MacGyver/3rdParty/berenson-comps/plugins':'/usr/local/share/openrave-0.7/plugins'

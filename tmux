@@ -9,6 +9,7 @@ set-option -g set-titles-string '#H:#S.#I.#P #W #T' # window number,program name
 
 # Set C-a as the keybinder
 set-option -g prefix C-a
+# set-option -g prefix M-k
 unbind-key C-b
 
 # Resizing?
