@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/cerdogan/Documents/Dart/src/apps'
 let g:netrw_dirhist_2='/home/cerdogan/Documents/SurfaceReconstruction/trunk/exe'
 let g:netrw_dirhist_3='/'
@@ -8,3 +8,4 @@ let g:netrw_dirhist_5='/home/cerdogan/Documents/SurfaceReconstruction/trunk/exe'
 let g:netrw_dirhist_6='/home/cerdogan/Documents/RubeGoldberg'
 let g:netrw_dirhist_7='/usr/local/etc/init.d'
 let g:netrw_dirhist_8='/home/cerdogan/.zsh'
+let g:netrw_dirhist_9='/home/cerdogan/Documents/Tools/setup/vim/.vim'
