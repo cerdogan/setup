@@ -19,6 +19,11 @@ alias isrr='cd /home/cerdogan/Documents/MacGyver/ISRR'
 alias scenes='cd /home/cerdogan/Documents/MacGyver/3rdParty/simulation/scenes'
 alias esdcan='/usr/src/ntcan/esdcan-pci405-linux-2.6.x-x86_64-3.9.4'
 alias exp='~/Documents/Software/project/krang/experiments/'
+alias krang='cd /home/cerdogan/Documents/Software/project/krang'
+alias somatic='cd /home/cerdogan/Documents/Software/lib/somatic'
+alias ollwa='vim /var/run/somatic/pciod-llwa/out'
+alias orlwa='vim /var/run/somatic/pciod-rlwa/out'
+alias owaist='vim /var/run/somatic/pciod-waist/out'
 
 # Paths
 export GTEST_DIR='/home/cerdogan/.Tools/gtest-1.6.0/include/'

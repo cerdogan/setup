@@ -11,6 +11,7 @@ au BufRead,BufNewFile *.stc setfiletype cel
 au BufRead,BufNewFile *.lp setfiletype cplexlp
 au BufRead,BufNewFile *.acts setfiletype oldowanActs
 au BufRead,BufNewFile *.cl setf opencl
+colorscheme desert
 nmap - $
 ino jj <esc>
 cno jj <c-c>

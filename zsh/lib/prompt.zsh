@@ -49,7 +49,13 @@ else
 fi
 local git_branch='$(git_prompt_info)%{$reset_color%}'
 
-PROMPT="╭─${user_host} ${current_dir} ${rvm_ruby} ${git_branch}
+# Get the bms value
+local krang_bms=''
+if [ `hostname -s` = "krang" ]; then 
+	krang_bms=$terminfo[bold]$fg[cyan]"|"`/usr/local/bin/bmsGetLast.sh`"|"; 
+fi
+
+PROMPT="╭─${user_host} ${krang_bms} ${current_dir} ${rvm_ruby} ${git_branch} 
 ╰─%B$%b "
 #PROMPT="${user_host} ${current_dir}${rvm_ruby} ${git_branch}%B$fg[blue]%%%{$reset_color%}%b "
 RPS1="${return_code}"
