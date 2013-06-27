@@ -149,11 +149,20 @@ case "$TERM" in
     dumb)
 	unsetopt zle
 	unsetopt prompt_cr
-	unfunction precmd
+	#unfunction precmd
 	unfunction preexec
 	PS1='$ '
 	;;
 esac
+
+function precmd {
+	if [ `hostname -s` = "krang" ]; then 
+		krang_bms=$terminfo[bold]$fg[cyan]"|"`/usr/local/bin/bmsGetLast.sh`"|"; 
+	fi
+PROMPT="╭─${user_host} "$krang_bms" ${current_dir}  ${git_branch}
+╰─%B$%b "
+RPS1="${return_code}"
+}
 
 # ---[ Personalized Stuff ]--------------------------------------
 if [[ -a $ZSH_HOME/personal.zsh ]]; then
@@ -209,3 +218,5 @@ for plugin ($plugins); do
 	source $ZSH_HOME/plugins/$plugin/$plugin.plugin.zsh
     fi
 done
+
+
