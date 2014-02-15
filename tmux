@@ -35,3 +35,9 @@ bind-key l select-pane -R
 
 set -g status-bg black
 set -g status-fg white 
+
+setw -g mode-keys vi
+bind-key -t vi-copy 'v' begin-selection # Begin selection in copy mode.
+bind-key -t vi-copy 'C-v' rectangle-toggle # Begin selection in copy mode.
+bind-key -t vi-copy 'y' copy-selection # Yank selection in copy mode.
+bind-key b paste-buffer
