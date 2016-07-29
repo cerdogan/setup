@@ -1,5 +1,5 @@
 # tmux
-tmux source-file ~/.tmux.conf
+#tmux source-file ~/.tmux.conf
 if [ "$TMUX" = "" ]; then tmux; fi
 
 # Binaries
