@@ -51,8 +51,16 @@ _wenn_ wir schon von barney reden, ich rufe ihn _an_ -> speaking of
 	barney, i should call him
 das stimmt -> that's true
 was liegt an -> what's up
+aus spass -> for fun (sie liest aus spass philosophie -> she reads 
+	philosophie for fun)
+was ist los -> what's going on
+halt den mund -> shut up
+verglichen mit -> compared to (verglichen mit dieser frau, bin ich eine
+	tuete voll altem muell -> c. t. that woman i'm a bag of old garbage)
+es tut mir leid -> i'm sorry
 
 =============================== nouns ===================================
+die verspaetung -> delay, lateness
 die ehe -> marriage
 das krankenhaus -> hospital, die krankheit
 der grund -> reason, die gruendung -> foundation (building)
@@ -140,7 +148,8 @@ der knopf -> button
 der schmuck -> jewelry
 der fleck -> spot (fleckle)
 das fleisch -> meat
-der abschluss -> conclusion
+der abschluss -> conclusion 
+der schluss -> end (ich mach frueher schluss -> i finish my work shift earlier)
 die saison -> season (der winter, der fruehling, der sommer, der herbst)
 der ausflug -> trip, excursion
 das jahrhundert -> century; das jahr -> year
@@ -166,6 +175,7 @@ der augenblick -> moment
 das bild -> picture
 die hochschule, die universitaet -> university, college
 der anhang -> attachment
+der punkt -> point (komm zu punkt -> get to the point)
 der beruf -> job, occupation (rufen, calling)
 der anwalt, der rechtsanwalt -> attorney, lawyer
 der schuh -> shoe
@@ -202,8 +212,16 @@ das limit, die grenze -> limit
 der schritt -> step
 das vergnuegen -> pleasure (Es ist mir ein Vergnuegen)
 die achtung, die gefahr -> danger
+die seide -> silk
 
 ============================== adverbs ==================================
+wahrscheinlich -> probably, presumably
+gleich -> equally 
+	2-> immediately (ich komme gleich -> i'm coming in a second)
+annaehernd -> approximately, almost
+fast -> almost, nearly (wieso sind das fast nur typen -> 
+	why are these mostly only dudes)
+staendig -> constantly, continuously
 inzwischen -> in the mean time, meanwhile
 	der hund ist inzwischen so was von tot ->? the dog is so dead right now
 eben -> just (die frau von eben ->the woman from just now (who just left)
@@ -213,6 +231,8 @@ echt -> really
 gar -> really (ich bin gar nicht in robin verliebt -> i'm not really 
 	in love with robin)
 sonst -> otherwise
+	(ich kenne _sonst niemanden_, der dieses album hat -> i've met _no one
+		else_ who has this album)
 sogar -> even (wenn es hilft, werde ich sogar tanzen -> if it helps,
 	i will even dance)
 sofort -> right away, immediately
@@ -251,6 +271,7 @@ zuvor -> before (die gruppe war zuvor unbekannt)
 	jetzt weiss ich noch weniger als zuvor -> now i know even less than b4 
 vorher -> before (das ist nicht, was du vorher sagtest)
 bis -> until (ich arbeitete bis mitternacht)
+	(bis heute abend, konnte ich _noch nie_  ...)
 entlang -> along (ich spazierte am wasser entlang)
 genauso wichtig -> just as important (die sozialen bezihungen sind ..)
 	(sie hat genauso viel bucher gebaht, _wie_ er sie hatte)
@@ -272,6 +293,15 @@ lieber -> better, soon (you better soon find a job!?)
 letztendlich -> eventually
 
 ============================= adjectives ================================
+unglaublich -> unbelievable
+streng -> strict
+unsicher -> insecure
+bloed -> stupid (also adverb)
+witzig -> funny
+nervig -> annoying
+neidisch, eifersuechtig -> jealous 
+	(ich bin _nur etwas_ eifersuchetig -> i am _only slightly_ jealous)
+verrueckt -> crazy
 verwirrt, konfus, durcheinander -> confused
 verdaechtig -> suspicious
 dringend -> urgent
@@ -323,6 +353,26 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+leugnen -> to deny
+kennenlernen -> to get to know, to meet someone
+vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
+feststellen -> to find out, to determine
+reagieren -> to react, .. ueber -> overreact
+verlieren -> to lose (ich koennte mein stipendium verlieren -> i could
+	lose my scholarship)
+hassen -> to hate
+schwoeren -> to swear
+stimmen -> to be right, to vote? (das stimmt nicht -> that's not true)
+verabreden sich -> to arrange to meet, to date
+	(ich war mit ihrer mitbewohnerin verabredet -> i was on a date with 
+		her roommate)
+glotzen -> to stare, to gape
+schaut euch ... an -> to look at ... (schau mich an -> look at me)
+einstellen -> to hire (eingestellt -> hired)
+vermasseln -> to screw up, to mess up 
+	(ich versuche, es nicht zu vermasseln -> i'll try to not screw it up)
+freuen -> to be happy (ich freue mich so fuer dich -> i'm so happy for u)
+ausgehen -> to go out, to date(gehst du manchmal mit suessen idioten aus)
 sich lohnen -> to be worth it; wert sein 
 suchen nach -> to search for (er suchen nach schutz)
 lassen nach -> to die down (wind: der wind liess nach)
@@ -338,7 +388,7 @@ ausreichen -> to be sufficient (mir reicht es -> i've had enough!)
 schliessen -> to close (schloss -> past)
 weinen -> to cry (weinerlich -> whiny, mushy)
 riechen -> to smell, to sniff
-luegen (auf jemanden) -> to lie to someone
+luegen (auf jemanden) -> to lie to someone (die luege -> lie)
 bestellen -> to order (food)
 fortfahren -> to continue
 soll -> should 
@@ -350,8 +400,10 @@ hatten -> had (sie hatten ihre eigene kultur)
 wahlen -> to choose (die auswahl -> selection)
 erwaehnen -> to mention
 beruhigen -> to calm down (beruhige dich -> calm down!)
-hoeren -> to hear
 schuetzen -> to protect
+hoeren -> to hear, to listen
+zuhoeren -> to listen closely
+anhoeren sich -> to sound (es hoert sich verrueckt an -> it sounds crazy)
 aufhoeren -> to stop
 gehoeren -> to belong (die institute gehoeren zu der universitaet)
 	(accus: wohin gehoerst du? wo gehoerst du hin?)(es wuerde dir gehoeren)
@@ -360,7 +412,7 @@ zeigen -> to show, to demonstrate
 klingeln -> to ring (phone)
 langweilen -> to bore
 erinneren -> to remember
-erzaehlen -> to tell, to recount
+erzaehlen -> to tell, to recount(erzaehl mir von ihm->tell me about him)
 warten -> to wait (warte mal -> wait!)
 hoffen -> to hope
 anstecken -> to infect
@@ -466,6 +518,11 @@ lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink,
 hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
+ich weisse nicht, wieso ich das getan habe -> i dunno why i did that
+
+============================= preposition ===============================
+hinter -> behind (es steht hinter euch -> it's behind you)
+ohne -> without
 
 =============================== stuff ===================================
 davon -> about it (sie erfahrt davon?)
