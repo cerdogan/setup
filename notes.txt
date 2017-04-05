@@ -1,0 +1,484 @@
+du -> you singular, ihr -> you informal plural (y'all)
+	Sie (you formal singular or plural), sie -> they
+ihr -> her, their, Ihr -> your
+aufs = auf das
+fuer -> accusative
+am = an dem (at the)
+an der wall -> on the wall
+um -> at (for time) / around (for space) ?
+haus: dativ: haus/haeusern, genit: hauses/haeuser
+der vater ihres sohnes -> the father of her son
+keinen dieser huete ->any of these hats |dieser ->genitive, plural, mixed
+auf der liste -> on the list (die liste, genitive)
+im november -> in november
+was auch immer -> whatever (was auch immer Sie mir empfehlen)
+wem -> to whom (wem wuerde die jacke gehoeren)
+wen siehst du -> whom do you see
+wessen -> whose (wessen pferd ist es -> whose horse is it?)
+woher -> from where?
+welche -> which (welches pferd, welchen orangensaft magst du...) 
+warum -> why (because of what) and wieso -> how so
+	weshalb -> for which reason (weshalb benimmst du dich so -> 
+		why do you act this way?)
+seinem -> to his (er gibt seinem hund wasser)
+	wie geht es _deiner_ mutter -> how's your mom (genitive)
+als -> than (die schnecker ist langsamer als die katze)
+alles _geht_ langsamer -> everything goes more slowly
+viertel vor sechs -> quarter to six
+_wie_ ist der name deiner lehrerin -> "how" is the name (not what)
+das hemd des mann_es_ -> genitive..
+sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
+	what she wants
+dem dem der denen -> relative dative pronouns
+dessen (m, n), deren (fm, pl) -> relative genitive pronouns
+aus der tuerkei -> from turkey
+nachdem subject .... verb, verb subject ... (nachdem ich verlassen hatte,war ich traurig)
+Im ernst -> i'm serious.
+vor dem -> in front of (ich bin vor dem zoo)
+im -> in the (gibt es im zoo zebras)n
+wuerde (would - ich wuerde gehen) vs. wurde (passive - 
+	ich wurde gefahren: i was driven)
+alles (pronoun) -> everything, alle (pronoun) -> all 
+wir fordern _unser_ geld zurueck.
+dann werde ich gehen -> dann counts as the first word in sentence
+wann habt ihr _sie mit ihm tanzen_ sehen -> interesting...
+ob -> whether; (ich bin nicht sicher, ob das stimmit -> 
+	i'm not sure whether that's true)
+	(ob stella ihn mag oder nicht ist wichig -> whether stella likes it 	
+		or not is important)
+	(ja, und ob! -> yes, and how! (yes, i do!))
+_wenn_ wir schon von barney reden, ich rufe ihn _an_ -> speaking of 
+	barney, i should call him
+das stimmt -> that's true
+was liegt an -> what's up
+
+=============================== nouns ===================================
+die ehe -> marriage
+das krankenhaus -> hospital, die krankheit
+der grund -> reason, die gruendung -> foundation (building)
+das verhalten -> behavior (sich verhalten -> to behave)
+der loewe -> lion; der elefant, der hamster, das eichhoernchen (squirrel)
+	die gans -> goose (not ganz!)
+die trommel -> drum
+das orchester -> orchestra; der dirigent -> conductor
+der fall -> case (die faelle), fallen -> to fall, gefallen -> to like
+	(berlin gefaellt mir -> i like berlin)
+die schau -> show 
+die arbeitserlaubnis -> work permit
+die mitgliedshaft -> membership
+der verfasser, der autor -> author 
+der verbraucher -> customer
+das verfahren -> procedure (fahren -> to drive)
+	die faehre -> ferry
+die verbesserung -> improvement
+der verlauf -> course, progress, process
+der prozess -> trial (not der versuch (attempt))
+das unternehmen, das geschaeft -> business (die firma)
+der inhaber -> owner, incumbent
+der nachweis -> proof
+der kunststoff -> plastic
+die atmosphaere -> atmosphere
+der wissenschaftler -> scientist
+die eltern -> parents; der grosseltern -> grandparent
+	der enkel -> grandchild
+die tante -> aunt; den onkel -> uncle
+der unfall -> accident; der notfall -> emergency; das opfer -> victim
+das handtuch -> towel
+der dusche -> shower
+die tasche -> bag, der tisch -> table, der teller -> plate, 
+	die tasse -> cup
+der reisefuehrer -> travel guide
+die reise -> trip; die ferien, der urlaub -> vacation
+die sehenswuerdigkeit -> sight, attraction, landmark
+die wirklichkeit -> reality
+das land -> country
+der pass -> passport; das visum -> visa
+januar, februar, maerz, april, mai, juni, juli, august, 
+		september, oktober, november, dezember (all der) 
+		(der monat juli - the month of july)
+die saison 
+die umsetzung -> implementation
+die erfahrung -> experience
+die einfuehrung -> introduction
+das gewicht -> weight
+die familie -> family
+der hut -> hat; die jacke, die hoese, die socke, das hemd
+der ort -> town
+der flughafen -> airport | ich fahre _zum_ flughafen
+das leder -> leather
+das gold (gold) vs. das geld (money) vs. gelb (yellow)
+das museum -> museum (er will jedes museum sehen)
+das motorrad (motorcycle)
+das glas -> die glaeser
+das fenster -> window (die fenster, plural; diese ...)
+die seife -> soap
+die vorschrift -> rule
+die regierung -> government
+der einfluss -> influence
+die partei -> political party, die party -> fun party
+die haut -> skin
+die nase -> nose
+der tag -> day
+die hose -> pants
+der koch -> der cook -> cook
+das oel -> oil
+das bad -> bath; das bett -> bed (schlief -> slept)
+die flasche -> bottle
+die treppe -> staircase
+der teppich -> rug, carpet
+das zentrum -> center; die zentrale -> headquarters
+die unterkunft -> lodging, accommodation
+der bereich -> area
+das ladegeraet -> battery charger
+die tuer -> door (die tueren)
+die umgebung -> environment
+das mittel -> remedy, means (mit allen Mitteln -> by all means (e.g. win by ..))
+das ergebnis -> result
+die ahnung -> idea (die Idee); (keine Ahnung -> no idea)
+der junge -> boy
+der knopf -> button
+der schmuck -> jewelry
+der fleck -> spot (fleckle)
+das fleisch -> meat
+der abschluss -> conclusion
+die saison -> season (der winter, der fruehling, der sommer, der herbst)
+der ausflug -> trip, excursion
+das jahrhundert -> century; das jahr -> year
+die antwort -> answer (er kennt alle antworten -> he knows each answer)
+das schwein -> pig; der schinken -> ham
+das fruehstuck -> breakfast; das abendessen -> dinner 
+	fruehstucken vs. der mann isst zu abend -> to have dinner
+das muesli -> cereal
+die speisekarte -> menu
+die bohnen -> beans (food)
+das getraenk -> drink 
+der loeffel -> spoon
+der nachtisch -> dessert (der kuchen -> cake)
+der himmel -> sky
+die ware -> product (das warehaus)
+das dach -> roof
+der stahl -> steel; das eisen -> iron
+die beine -> bee
+der bedarf -> demand (darf ich gehen -> may i go)
+die schnecke -> snail
+die mitternacht -> midnight
+der augenblick -> moment
+das bild -> picture
+die hochschule, die universitaet -> university, college
+der anhang -> attachment
+der beruf -> job, occupation (rufen, calling)
+der anwalt, der rechtsanwalt -> attorney, lawyer
+der schuh -> shoe
+der Osten Europas -> east of Europe; Osteuropa -> eastern Europa
+das mittagessen -> lunch
+die blume -> flower; der baum -> tree
+die leute -> people (ich kenne keine normalen leute)
+der druck -> pressure (ohne druck -> no pressure)
+	(druecken -> to push; ausdrucken -> to print)
+die naehe -> vicinity, neighborhood
+der brief -> letter
+der muskel -> muscle, der daumen -> thumb, das gehirn -> brain, 
+	die stirn -> forehead, der knoechel -> ankle, der knochen -> bone,
+	die ferse -> heel, das blut -> blood, das gesicht -> face
+der stil -> style (es war nicht mein stil -> it wasn't my style)
+der haendler -> merchant, der einzalhandel -> retail 
+	(handeln -> to trade, to act)
+die versicherung -> insurance (sichern -> to secure, to back up)
+der artikel -> article
+das wetter -> weather
+der laden -> store
+der unterricht -> lesson
+die stimmung -> mood, vibe (warum ist hier so eine schlecte stimmung)
+die kunst -> art, die musik -> music
+die heimat -> home, homeland,motherland(italien ist die heimat der kunst)
+der quatsch -> nonsense
+das risiko -> risk 
+der schutz -> cover
+die uebersicht -> summary
+der eintrag -> entry
+der eintritt -> entry, entrance, admission
+der eingang -> input, entry, beginning
+das limit, die grenze -> limit
+der schritt -> step
+das vergnuegen -> pleasure (Es ist mir ein Vergnuegen)
+die achtung, die gefahr -> danger
+
+============================== adverbs ==================================
+inzwischen -> in the mean time, meanwhile
+	der hund ist inzwischen so was von tot ->? the dog is so dead right now
+eben -> just (die frau von eben ->the woman from just now (who just left)
+neulich -> recently
+tatsaechlich -> really
+echt -> really
+gar -> really (ich bin gar nicht in robin verliebt -> i'm not really 
+	in love with robin)
+sonst -> otherwise
+sogar -> even (wenn es hilft, werde ich sogar tanzen -> if it helps,
+	i will even dance)
+sofort -> right away, immediately
+wieder -> again (wiederholen -> to repeat)
+zuerst -> first; zuletzt -> last
+kaum -> barely (er arbeitet kaum -> he barely works)
+	(ich kann es kaum erwarten -> i can barely wait)
+voellig -> completely
+ueberhaupt -> at all (das ist ueberhaupt nicht gut)
+jedenfalls -> certainly (in all cases)
+jedenfalls 2->? anyway
+possible -> moeglich; impossible -> unmoeglich
+durchaus -> absolutely
+eindeutig, bestimmt -> definitely; eindeutig (adj) -> conclusive
+vielleich -> maybe
+unten -> down, downstairs (unten an der tur)
+nebenan -> next door
+sehr genau -> exactly (is sehr necessary?)
+noch ein -> another (er braucht noch eine batterie)
+lieder -> unfortunately
+haben grossen durst -> to be very thirsty
+offensichtlicht -> obviously
+anscheinend, scheinbar -> apparently
+ist es wert -> to be worth it
+so viele fische -> so many fish
+noch einen bitte -> another one please ("einen")
+genug -> enough (haben wir genug Milch?) (genugen -> to suffice)
+immer noch -> still (sie isst immer noch -> she is still eating)
+noch -> still (wir leben noch -> we are still alive)
+	noch keine antworten -> no answers yet
+ganz neu ->totally new; ganz -> entire, whole (meine ganze Vergangenheit)
+	Ihre ganze familie -> your entire family
+nachts -> at nights
+waehrend -> during (takes genitive)
+zuvor -> before (die gruppe war zuvor unbekannt)
+	jetzt weiss ich noch weniger als zuvor -> now i know even less than b4 
+vorher -> before (das ist nicht, was du vorher sagtest)
+bis -> until (ich arbeitete bis mitternacht)
+entlang -> along (ich spazierte am wasser entlang)
+genauso wichtig -> just as important (die sozialen bezihungen sind ..)
+	(sie hat genauso viel bucher gebaht, _wie_ er sie hatte)
+selbst, selber -> itself, yourself, themselves (selben -> the same) 
+selbst 2->  even (selbst er verstand, was passiert war -> 
+	even he understood what had happened)
+selten -> rarely
+meist -> mostly
+haeufig, oft -> frequently
+immer -> always
+weder ... noch ... -> neither nor (die note ist weder schlecht noch gut)
+einmal -> once (wir versuchen alles einmal)
+zusammen, gemeinsam, miteinander? -> together 
+	(dann planen wir es gemeinsam)
+schon lange -> for a long time (ich kenne ihn schon lange)
+so lange -> as long as (wir behalten sie, so lange wir koennen -> 
+	we are keeping her as long as we can)
+lieber -> better, soon (you better soon find a job!?)
+letztendlich -> eventually
+
+============================= adjectives ================================
+verwirrt, konfus, durcheinander -> confused
+verdaechtig -> suspicious
+dringend -> urgent
+erstaunclich -> amazing
+wenig -> little (ich hatte wenig schlaf -> i had little sleep)
+scheusslich -> awful, hideous, nasty
+respektlos -> disrespectful
+nett -> nice, cute
+entzueckend -> delightful
+verzweibelt -> desperate (can be adverb)
+peinlich -> embarrasing
+geduldig -> patient
+wuetend, boese -> angry (warum bist du _viel_ wuetender auf barney
+	-> why are you so much angrier at barney)
+glatt -> smooth
+heiss -> hot, kalt -> cold
+duenn -> watery, thin (die suppe ist duenn)
+einzige -> single (es reicht nur fuer eine einzige person)
+	die einzelheit -> detail
+aehnlich -> similar (aehnlich wie damals -> as then) 
+	(das dem vater aehnlich kind -> child like his father)
+hoch -> high; hoch oben -> high up (er ist hoch oben in der firma)
+dort oben -> up there
+bereit -> ready; bereits -> already (adverb)
+vorbei -> passed (der winter ist vorbei) (das gehr vorbei -> that's passing)
+wahr -> true (die wahrheit -> truth); falsch -> false; 
+pretty heavy -> ganz "schoen" schwer (not only ganz) -> ziemlich schwer
+weich -> soft
+knapp -> scarce (das war knapp -> that was close (almost caught..))
+sinnvoll -> useful/meaningful/reasonable/sensible 
+	(das macht sinn -> that makes sense) (in diesem sinne -> in this sense)
+hilfreih -> helpful (habe geholfen -> helped)
+schwach -> weak
+schmutzig -> dirty; sauber -> clean
+kurz -> short
+reich -> rich (arm -> poor?)
+teurer -> more expensive
+glueck -> luck
+gluecklich, froh -> happy (zufrieden -> satisfied, content)
+	befriedigen -> to satisfy
+persoenliche -> personal
+guenstig -> advantageous, favorable, cheap (billig -> cheap)
+gueltig -> valid, passable
+reine -> pure (es war die reine wahrheit -> it was completely true)
+zustaendig, verantworlich -> responsible
+jeder -> every (jeden abend -> every evening, jede hoffnung)
+naechste -> next (wir werden naechsten donnerstag schwimmen)
+sein weg -> to be gone (der weg, die weise -> way)
+gemeinsem -> common
+
+=============================== verbs ===================================
+sich lohnen -> to be worth it; wert sein 
+suchen nach -> to search for (er suchen nach schutz)
+lassen nach -> to die down (wind: der wind liess nach)
+probieren -> to try, to taste, to try out
+sprechen ueber -> to speak about
+geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
+zunehmen -> to increase (der handel nimmt zu)
+anrufen, telefonieren -> to call (telephone)
+gelten -> to be valid, to count, to apply (gueltig) 
+	(die wette gielt -> the bet is on)
+schaden -> to damage, (der schaden -> the damage, die schaeden)
+ausreichen -> to be sufficient (mir reicht es -> i've had enough!)
+schliessen -> to close (schloss -> past)
+weinen -> to cry (weinerlich -> whiny, mushy)
+riechen -> to smell, to sniff
+luegen (auf jemanden) -> to lie to someone
+bestellen -> to order (food)
+fortfahren -> to continue
+soll -> should 
+werden -> will (ihr werdet -> you will)
+waere -> would be (das waere gut)
+haetten -> would have (wir haetten die katze behalten -> 
+	we would have kept the cat)
+hatten -> had (sie hatten ihre eigene kultur)
+wahlen -> to choose (die auswahl -> selection)
+erwaehnen -> to mention
+beruhigen -> to calm down (beruhige dich -> calm down!)
+hoeren -> to hear
+schuetzen -> to protect
+aufhoeren -> to stop
+gehoeren -> to belong (die institute gehoeren zu der universitaet)
+	(accus: wohin gehoerst du? wo gehoerst du hin?)(es wuerde dir gehoeren)
+messen -> to measure (er misst die temperatur)
+zeigen -> to show, to demonstrate
+klingeln -> to ring (phone)
+langweilen -> to bore
+erinneren -> to remember
+erzaehlen -> to tell, to recount
+warten -> to wait (warte mal -> wait!)
+hoffen -> to hope
+anstecken -> to infect
+erwarten -> to expect (die erwartung -> expectation)
+fragen -> to ask, anfragen -> to investigate (bei jemandem anfragen)
+	fragen sich -> to wonder (ich frage mich ob es sich lohnt -> 
+		i wonder whether it's worth it)
+fuehren -> to lead
+haben -> to have (accusative) (ich habe einen hund)
+fordern -> to demand
+foerdern -> to promote, to encourage
+ergeben -> to yield, to result in, to make 
+	(dass ergibt keinen sinn (der sinn) -> that doesn't make sense)
+zugeben -> to admit
+spazierten -> to walk
+enttaeuschen -> to disappoint, to let down
+beachten -> to consider (das werden wir beachten), pay attention?
+	achten -> to respect
+antworten -> to respond (no direct obj. (no antworten es) but indir. 
+	(ich antworte dir; ich antworte dir _auf_ die frage))
+	(Kannst du mir darauf antworten, warum du immer zu spaet kommst)
+beantworten -> to answer (always with direct obj) 
+	(ich beantworte (dir) die frage)
+	(Kannst du mir beantworten, wieso du immer zu spaet kommst?)
+wuenschen -> to wish jemanden (er wuensche dir eine gute reise)
+einrichten -> to set up, to arrange (an event?) 
+berichten -> to report (der bericht -> report)
+beschreiben -> to describe
+aufhoeren -> to stop
+aufstehen -> to get up 
+sein aufgestanden -> got up (ich bin so frueh aufgestanden -> 	
+	i woke up early)
+schaffen -> to make, to cope
+verschaffen -> to provide 
+verhandeln -> to negotiate
+verfassen, schreiben -> to write
+fassen -> to take, to touch, to grasp
+	(ich fasse es nicht -> i don't believe it)
+linsen -> to peek
+versammeln -> to gather (er hat uns hier versammelt->he gathered us here)
+verlieren -> to lose (er verlor seine haare)
+verlassen -> to leave (verlassen ihn, not ihm)
+vermeiden -> to avoid (ich wuerde ihn vermeiden)
+verhindern -> to prevent
+verdienen -> to earn, dienen -> to server
+versuchen zu -> to try to (ich versuche englisch zu lernen)
+verlangen -> to request, to desire, to demand
+verwenden -> to use (die Verwendung -> the use)
+vertrauen -> to trust
+verraten -> to reveal, to betray (verrate mir etwas ueber dich, das 
+	ich noch nicht weiss -> tell me smt about you that i don't know yet)
+versprechen -> to promise
+wenden -> to turn
+erwidern -> return, reciprocate (meine gefuehle niemals erwidern wird 
+	-> my feelings will never be reciprocated)
+gucken -> to watch, to see (tv)
+auflegen -> to hang up (aufgelegt -> hung up)
+bereuen -> to regret
+benutzen -> to use (die Nutzung -> the use)
+erkennen -> to recognize
+wirken -> to work (die medizin wird wirken)
+mieten -> to rent, vermieten -> to rent to somebody else (homeowner)
+bestaetigen -> to confirm
+treffen -> to meet (accus: ich treffe den ...)
+dauern -> to last (die fahr dauert sechs tage...)
+darf -> may (darf ich antworten -> may i ask)
+gewinnen -> to win (der gewinn -> profit)
+ausrichten 2-> to tell (ich richte ihm gruesse (regards) aus -> 
+	i'll give him (your?) regards)
+greifen -> to grip
+begreifen -> to grasp (2: to understand)
+schlafen -> to sleep (schlaeft -> he sleeps)
+schenken -> to gift (to give)
+scheinen -> to seem (diese loesung scheint mir besser zu sein als jene)
+	erscheinen -> to appear (out of nowhere)(ein wildes pokemon erscheint!)
+	aussehen -> to look (sieht alles gut aus -> everything looks good)
+glauben -> to believe (der glauben -> belief) (keiner wuerde ihm glauben)
+einkaufen -> to go shopping
+einsehen -> to see, to recognize (appreciate a mistake?)
+fuehlen -> to feel (das gefuehl -> feeling)
+ueberweisen -> to transfer (money) (ueberwiesen for past perfect)
+werben -> to advertise, erwerben -> to acquire, die werbung->advertisement
+	bewerben -> to apply (to a job)
+benoetigen -> to need 
+besitzen -> to own
+behalten -> to keep (wir wuerden _ihn_ behalten)
+bewegen -> to move (wir bewegen das auto)
+stellen -> to put (die ausstellung -> exhibition)
+sorgen -> to worry, to take care
+	keine sorge -> no worries
+heiraten, verheiraten? -> to marry
+folgen -> to follow (ich folge _dir_ -> i follow you), to succeed?
+erfolgen -> to happen, to take place 
+erfahren -> to find out
+leisten -> to achieve, to accomplish, to perform? 
+	die leistung -> achievement
+empfehlen -> to recommend (die empfehlung -> recommendation)
+danken -> to thank (ich danke _deinem_ mann)
+tragen -> to wear, to carry (accus: er traegt einen modernen hut)
+lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink, 
+	gib -> imperative
+	drop, go, be, call, stay, read, eat, take, drink, give
+hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
+
+============================ conjunctions ===============================
+
+=============================== stuff ===================================
+davon -> about it (sie erfahrt davon?)
+dazu -> for that, about that (dazu moechte ich nichts sagen)
+deshalb -> that's why
+
+jedoch -> however (es ist jedoch nicht moeglich,jedoch ist es unmoeglich)
+
+jeder (pronoun) -> everone
+jemand -> someone, somebody (pronoun)
+niemand, keiner -> nobody
+
+
+
+
+
