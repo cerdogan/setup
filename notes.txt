@@ -30,7 +30,6 @@ das hemd des mann_es_ -> genitive..
 sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
 	what she wants
 dem dem der denen -> relative dative pronouns
-dessen (m, n), deren (fm, pl) -> relative genitive pronouns
 aus der tuerkei -> from turkey
 nachdem subject .... verb, verb subject ... (nachdem ich verlassen hatte,war ich traurig)
 Im ernst -> i'm serious.
@@ -58,11 +57,36 @@ halt den mund -> shut up
 verglichen mit -> compared to (verglichen mit dieser frau, bin ich eine
 	tuete voll altem muell -> c. t. that woman i'm a bag of old garbage)
 es tut mir leid -> i'm sorry
+wie bitte -> again, please? (repeat yourself)
 
 =============================== nouns ===================================
+die zeitschrift, das magazin -> magazine
+die nachricht -> message
+der computer -> computer (ich spreche mit meinem freund _am_ computer)
+das Oesterreich -> Austria
+die vorwahl -> area code, prefix
+die wahl -> choice, election
+die abstimmung -> vote
+die freude -> pleasure, joy
+der anfang -> beginning
+der baer -> bear
+die groesse -> size
+die baumwolle -> cotton
+die moebel -> furniture
+der saft -> juice (der saft ist zu suess -> the juice is too sweet)
+das hauptgericht -> main dish
+der kaefer -> beetle
+die beziehung -> the relationship (die beziehung nimmt ihren lauf ->
+	the relationship is taking its course)
+die bezeichnung -> label
+das zeichen -> sign, mark, character, symbol
+die anforderung -> requirement
+die ernaehrung, die diaet -> diet, nutrition
 die verspaetung -> delay, lateness
 die ehe -> marriage
-das krankenhaus -> hospital, die krankheit
+der rollstuhl -> wheelchair
+die klinik -> clinic
+das krankenhaus -> hospital, die krankheit -> disease
 der grund -> reason, die gruendung -> foundation (building)
 das verhalten -> behavior (sich verhalten -> to behave)
 der loewe -> lion; der elefant, der hamster, das eichhoernchen (squirrel)
@@ -72,7 +96,6 @@ das orchester -> orchestra; der dirigent -> conductor
 der fall -> case (die faelle), fallen -> to fall, gefallen -> to like
 	(berlin gefaellt mir -> i like berlin)
 die schau -> show 
-die arbeitserlaubnis -> work permit
 die mitgliedshaft -> membership
 der verfasser, der autor -> author 
 der verbraucher -> customer
@@ -80,10 +103,19 @@ das verfahren -> procedure (fahren -> to drive)
 	die faehre -> ferry
 die verbesserung -> improvement
 der verlauf -> course, progress, process
+der lauf -> course, run (das ist der lauf der geschichte -> that's the 
+	course of history)
 der prozess -> trial (not der versuch (attempt))
 das unternehmen, das geschaeft -> business (die firma)
 der inhaber -> owner, incumbent
 der nachweis -> proof
+das feuer -> fire
+der schueler -> pupil
+der geschaeftsfuehrer -> manager
+der verkaeufer -> seller
+die arbeitserlaubnis -> work permit
+der arbeitnehmer -> employee (plural, same); der arbeitgeber -> employer
+der kunde -> customer
 der kunststoff -> plastic
 die atmosphaere -> atmosphere
 der wissenschaftler -> scientist
@@ -91,6 +123,8 @@ die eltern -> parents; der grosseltern -> grandparent
 	der enkel -> grandchild
 die tante -> aunt; den onkel -> uncle
 der unfall -> accident; der notfall -> emergency; das opfer -> victim
+der regenbogen -> rainbow
+das handy, das mobile -> cellphone
 das handtuch -> towel
 der dusche -> shower
 die tasche -> bag, der tisch -> table, der teller -> plate, 
@@ -128,7 +162,7 @@ die haut -> skin
 die nase -> nose
 der tag -> day
 die hose -> pants
-der koch -> der cook -> cook
+der koch, der cook -> cook (die koeche -> plural)
 das oel -> oil
 das bad -> bath; das bett -> bed (schlief -> slept)
 die flasche -> bottle
@@ -148,6 +182,10 @@ der knopf -> button
 der schmuck -> jewelry
 der fleck -> spot (fleckle)
 das fleisch -> meat
+das teil -> part, share
+die einheit -> unity, unit (welche einehit ist das -> which unit is this)
+der austausch -> exchange, replacement, substitution
+der anschluss -> connection, cable
 der abschluss -> conclusion 
 der schluss -> end (ich mach frueher schluss -> i finish my work shift earlier)
 die saison -> season (der winter, der fruehling, der sommer, der herbst)
@@ -160,12 +198,17 @@ das fruehstuck -> breakfast; das abendessen -> dinner
 das muesli -> cereal
 die speisekarte -> menu
 die bohnen -> beans (food)
-das getraenk -> drink 
+das getraenk -> drink (sie macht ein getraenk aus bohnen -> she prepares a 
+	drink from beans)
 der loeffel -> spoon
+die rechnung -> bill, account
+die sammlung -> collection, gathering
+der platz -> place
+der kampf -> fight, struggle
 der nachtisch -> dessert (der kuchen -> cake)
 der himmel -> sky
 die ware -> product (das warehaus)
-das dach -> roof
+das dach -> roof (er geht _aufs_ dach -> he goes onto the roof)
 der stahl -> steel; das eisen -> iron
 die beine -> bee
 der bedarf -> demand (darf ich gehen -> may i go)
@@ -189,7 +232,12 @@ die naehe -> vicinity, neighborhood
 der brief -> letter
 der muskel -> muscle, der daumen -> thumb, das gehirn -> brain, 
 	die stirn -> forehead, der knoechel -> ankle, der knochen -> bone,
-	die ferse -> heel, das blut -> blood, das gesicht -> face
+	die ferse -> heel, das blut -> blood, das gesicht -> face, 
+	die huefte -> hip, die brust, der brustkorb -> chest, 
+	das handgelenk -> wrist, die zehe -> toe, das auge -> eye,
+	der koerper -> body, der fuss -> foot
+das fahrrad -> bicycle
+der grad -> degrees (es sind nur vier grad -> it's only 4 degrees)
 der stil -> style (es war nicht mein stil -> it wasn't my style)
 der haendler -> merchant, der einzalhandel -> retail 
 	(handeln -> to trade, to act)
@@ -215,19 +263,28 @@ die achtung, die gefahr -> danger
 die seide -> silk
 
 ============================== adverbs ==================================
+spaetestens -> at the latest (spaetestens nach zwei tagen)
+taeglich -> daily
+tatsaechlich -> actually, really, indeed
+deswegen -> therefore, because of that 
+	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
+wegen -> because of (nicht wegen mir -> not because of me)
 wahrscheinlich -> probably, presumably
 gleich -> equally 
 	2-> immediately (ich komme gleich -> i'm coming in a second)
 annaehernd -> approximately, almost
+eher -> rather (das haus ist eher klein -> that house is rather small)
 fast -> almost, nearly (wieso sind das fast nur typen -> 
 	why are these mostly only dudes)
 staendig -> constantly, continuously
+dauernd -> constantly (ich schaue ihre sendung dauernd -> i watch your 
+	show all the time)
 inzwischen -> in the mean time, meanwhile
 	der hund ist inzwischen so was von tot ->? the dog is so dead right now
 eben -> just (die frau von eben ->the woman from just now (who just left)
 neulich -> recently
 tatsaechlich -> really
-echt -> really
+echt -> really (adj: real, genuine)
 gar -> really (ich bin gar nicht in robin verliebt -> i'm not really 
 	in love with robin)
 sonst -> otherwise
@@ -291,13 +348,20 @@ so lange -> as long as (wir behalten sie, so lange wir koennen ->
 	we are keeping her as long as we can)
 lieber -> better, soon (you better soon find a job!?)
 letztendlich -> eventually
+am ende -> in the end
 
 ============================= adjectives ================================
+wichtig -> important 
+	(die groesse ist _uns_ wichtig -> size is important _to_ us)
+zweite (2nd), siebte (7th)
+sauer -> sour (die zitrone schmeckt sauer -> the lemon tastes sour)
+beeindrucker -> impressive
 unglaublich -> unbelievable
 streng -> strict
 unsicher -> insecure
 bloed -> stupid (also adverb)
 witzig -> funny
+wahnsinnig -> insane, mad, crazy
 nervig -> annoying
 neidisch, eifersuechtig -> jealous 
 	(ich bin _nur etwas_ eifersuchetig -> i am _only slightly_ jealous)
@@ -318,6 +382,7 @@ wuetend, boese -> angry (warum bist du _viel_ wuetender auf barney
 	-> why are you so much angrier at barney)
 glatt -> smooth
 heiss -> hot, kalt -> cold
+dick -> fat (er ist nicht dict sondern duenn)
 duenn -> watery, thin (die suppe ist duenn)
 einzige -> single (es reicht nur fuer eine einzige person)
 	die einzelheit -> detail
@@ -336,7 +401,8 @@ sinnvoll -> useful/meaningful/reasonable/sensible
 hilfreih -> helpful (habe geholfen -> helped)
 schwach -> weak
 schmutzig -> dirty; sauber -> clean
-kurz -> short
+trocken -> dry; nass -> wet
+kurz -> short (enschuldigt mich kurz -> excuse me for a second)
 reich -> rich (arm -> poor?)
 teurer -> more expensive
 glueck -> luck
@@ -353,6 +419,24 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+es gab -> there was (eine bibliothek gab es nicht ->there was no library)
+trinken -> to drink (trank or habe getrunken -> past)
+wandern -> to travel (seine bilder wandern mit ihm _um_ die welt ->
+	his pictures travel with him around the world)
+lesen -> to read (ich habe es gelesen -> i read it (past))
+schneien -> to snow (es schneit -> it snows)
+es gibt -> there is, is available
+	(das kleid gibt es nur in diesen groessen -> the dress is only 
+		available in these sizes)
+waschen -> to wash
+lassen x los -> to let x go
+teilen -> to share, to divide, to split (ich werde das teil teilen -> 
+	i will split the part)
+machen verantwortlich -> to hold responsible 
+	(er macht die krankheiten verantwortlich)
+heissen -> to be called, to mean smthng
+anfangen -> to start (es fing vor ein paar wochen an -> it started a few
+	weeks ago) (angefangen -> started)
 leugnen -> to deny
 kennenlernen -> to get to know, to meet someone
 vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
@@ -377,7 +461,7 @@ sich lohnen -> to be worth it; wert sein
 suchen nach -> to search for (er suchen nach schutz)
 lassen nach -> to die down (wind: der wind liess nach)
 probieren -> to try, to taste, to try out
-sprechen ueber -> to speak about
+sprechen ueber -> to speak about (sprach -> spoke)
 geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
 zunehmen -> to increase (der handel nimmt zu)
 anrufen, telefonieren -> to call (telephone)
@@ -488,8 +572,13 @@ schlafen -> to sleep (schlaeft -> he sleeps)
 schenken -> to gift (to give)
 scheinen -> to seem (diese loesung scheint mir besser zu sein als jene)
 	erscheinen -> to appear (out of nowhere)(ein wildes pokemon erscheint!)
+		(wirst du erscheinen -> will you show up)
 	aussehen -> to look (sieht alles gut aus -> everything looks good)
 glauben -> to believe (der glauben -> belief) (keiner wuerde ihm glauben)
+	(er ist jemand, dem ich glaube -> he's someone i believe)
+bleiben -> to stay (bleib nicht bei ihm -> do not stay with him)
+verkaufen -> to sell
+kaufen -> to buy
 einkaufen -> to go shopping
 einsehen -> to see, to recognize (appreciate a mistake?)
 fuehlen -> to feel (das gefuehl -> feeling)
@@ -498,6 +587,7 @@ werben -> to advertise, erwerben -> to acquire, die werbung->advertisement
 	bewerben -> to apply (to a job)
 benoetigen -> to need 
 besitzen -> to own
+erhalten -> to receive
 behalten -> to keep (wir wuerden _ihn_ behalten)
 bewegen -> to move (wir bewegen das auto)
 stellen -> to put (die ausstellung -> exhibition)
@@ -506,6 +596,7 @@ sorgen -> to worry, to take care
 heiraten, verheiraten? -> to marry
 folgen -> to follow (ich folge _dir_ -> i follow you), to succeed?
 erfolgen -> to happen, to take place 
+	(es wird nicht erfolgen -> it will not happen)
 erfahren -> to find out
 leisten -> to achieve, to accomplish, to perform? 
 	die leistung -> achievement
@@ -518,14 +609,41 @@ lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink,
 hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
+egal -> anyway, wherever
 ich weisse nicht, wieso ich das getan habe -> i dunno why i did that
+
+=============================== pronoun =================================
+dessen -> relative genitive pronouns (m, n)
+	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
+		in a village the name of which i forgot)
+	(das ist der mann, dessen frau lehrerin ist -> that's the man, whose
+		wife is a teacher)
+deren -> relative genitive pronouns (fm, pl)
+dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
+	animal that I helped)
+alle -> all (am ende sind alle alleine -> in the end all are alone)
 
 ============================= preposition ===============================
 hinter -> behind (es steht hinter euch -> it's behind you)
 ohne -> without
+ausser -> except (er isst nichts ausser obst ->he eats nothing but fruit)
+
+=============================== articles ================================
+ich gebe ihrem hund einen apfel -> i give an apple to her dog
+wir geben das buch einem mann -> we give the book to a man
+sie spricht mit den schweden -> she speaks with the sweeds (pl., dative)
+sie kennt den schweden -> she knows the sweed (m, accus.)
+die schuelerin geht _zur_ lehrerin -> the student goes to the teacher
+	(zu + der = zur?)
+das madchen lernt mit unserem koch / unserer koechin -> the girl learns
+	with out cook
+das geht _aufs_ haus -> that is on the house (auf + das = aufs)
+er kommt spaetestens _am_ montag -> he arrives monday at the latest
+der computer ist auf dem tisch -> the computer is on the table
 
 =============================== stuff ===================================
-davon -> about it (sie erfahrt davon?)
+davon -> about it, from that (sie erfahrt davon?)
+	(was habe ich davon -> what do i get from that)
 dazu -> for that, about that (dazu moechte ich nichts sagen)
 deshalb -> that's why
 
