@@ -12,14 +12,6 @@ keinen dieser huete ->any of these hats |dieser ->genitive, plural, mixed
 auf der liste -> on the list (die liste, genitive)
 im november -> in november
 was auch immer -> whatever (was auch immer Sie mir empfehlen)
-wem -> to whom (wem wuerde die jacke gehoeren)
-wen siehst du -> whom do you see
-wessen -> whose (wessen pferd ist es -> whose horse is it?)
-woher -> from where?
-welche -> which (welches pferd, welchen orangensaft magst du...) 
-warum -> why (because of what) and wieso -> how so
-	weshalb -> for which reason (weshalb benimmst du dich so -> 
-		why do you act this way?)
 seinem -> to his (er gibt seinem hund wasser)
 	wie geht es _deiner_ mutter -> how's your mom (genitive)
 als -> than (die schnecker ist langsamer als die katze)
@@ -58,8 +50,22 @@ verglichen mit -> compared to (verglichen mit dieser frau, bin ich eine
 	tuete voll altem muell -> c. t. that woman i'm a bag of old garbage)
 es tut mir leid -> i'm sorry
 wie bitte -> again, please? (repeat yourself)
+ist es wert -> to be worth it
+so viele fische -> so many fish
+haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die position -> position
+der hof -> courtyard
+die qualitaet -> quality
+die pension -> guest house
+der schlaf -> sleep (sein schlaf ist fest -> his sleep is sound)
+der karton -> box
+die messe -> trade fair
+das angebot -> offer,deal(das angebot steht noch->the offer still stands)
+das stellenangebot -> job offer
+die branche -> industry
+die ware -> merchandise
 die zeitschrift, das magazin -> magazine
 die nachricht -> message
 der computer -> computer (ich spreche mit meinem freund _am_ computer)
@@ -107,6 +113,7 @@ der lauf -> course, run (das ist der lauf der geschichte -> that's the
 	course of history)
 der prozess -> trial (not der versuch (attempt))
 das unternehmen, das geschaeft -> business (die firma)
+die bewertung -> assessment
 der inhaber -> owner, incumbent
 der nachweis -> proof
 das feuer -> fire
@@ -170,6 +177,7 @@ die treppe -> staircase
 der teppich -> rug, carpet
 das zentrum -> center; die zentrale -> headquarters
 die unterkunft -> lodging, accommodation
+die stadt -> city; die hauptstadt -> capital city
 der bereich -> area
 das ladegeraet -> battery charger
 die tuer -> door (die tueren)
@@ -206,6 +214,7 @@ die sammlung -> collection, gathering
 der platz -> place
 der kampf -> fight, struggle
 der nachtisch -> dessert (der kuchen -> cake)
+die tisch -> table (wir stellen die teller auf den tisch)
 der himmel -> sky
 die ware -> product (das warehaus)
 das dach -> roof (er geht _aufs_ dach -> he goes onto the roof)
@@ -249,6 +258,7 @@ der unterricht -> lesson
 die stimmung -> mood, vibe (warum ist hier so eine schlecte stimmung)
 die kunst -> art, die musik -> music
 die heimat -> home, homeland,motherland(italien ist die heimat der kunst)
+die halle -> hall
 der quatsch -> nonsense
 das risiko -> risk 
 der schutz -> cover
@@ -263,94 +273,114 @@ die achtung, die gefahr -> danger
 die seide -> silk
 
 ============================== adverbs ==================================
-spaetestens -> at the latest (spaetestens nach zwei tagen)
-taeglich -> daily
-tatsaechlich -> actually, really, indeed
+
+``` location ```
+draussen -> outside
+im ausland -> abroad (wer geht im ausland -> who goes abroad)
+gegenueber -> across the street (er wohnt gegenueber)
+unten -> down, downstairs (unten an der tur)
+nebenan -> next door
+entlang -> along (ich spazierte am wasser entlang)
+
+``` connection ```
 deswegen -> therefore, because of that 
 	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
 wegen -> because of (nicht wegen mir -> not because of me)
+sonst -> otherwise
+	(ich kenne _sonst niemanden_, der dieses album hat -> i've met _no one
+		else_ who has this album)
+sogar -> even (wenn es hilft, werde ich sogar tanzen -> if it helps,
+	i will even dance)
+wieder -> again (wiederholen -> to repeat)
+lieder -> unfortunately
+weder ... noch ... -> neither nor (die note ist weder schlecht noch gut)
+so lange -> as long as (wir behalten sie, so lange wir koennen -> 
+	we are keeping her as long as we can)
+
+``` time ```
+inzwischen -> in the mean time, meanwhile
+	der hund ist inzwischen so was von tot ->? the dog is so dead right now
+eben -> just (die frau von eben ->the woman from just now (who just left)
+neulich -> recently
+sofort -> right away, immediately
+zuerst -> first; zuletzt -> last
+nachts -> at nights
+zuvor -> before (die gruppe war zuvor unbekannt)
+	jetzt weiss ich noch weniger als zuvor -> now i know even less than b4 
+vorher -> before (das ist nicht, was du vorher sagtest)
+waehrend -> during (takes genitive)
+bis -> until (ich arbeitete bis mitternacht)
+	(bis heute abend, konnte ich _noch nie_  ...)
+schon lange -> for a long time (ich kenne ihn schon lange)
+letztendlich -> eventually
+am ende -> in the end
+noch -> still (wir leben noch -> we are still alive)
+	noch keine antworten -> no answers yet
+immer noch -> still (sie isst immer noch -> she is still eating)
+spaetestens -> at the latest (spaetestens nach zwei tagen)
+
+``` frequency ```
+immer -> always
+selten -> rarely
+meist -> mostly
+haeufig, oft -> frequently
+taeglich -> daily
+staendig -> constantly, continuously
+dauernd -> constantly (ich schaue ihre sendung dauernd -> i watch your 
+	show all the time)
+einmal -> once (wir versuchen alles einmal)
+lieber -> better, soon (you better soon find a job!?)
+
+``` possibility ```
+tatsaechlich -> actually, really, indeed
+wirklich -> really
 wahrscheinlich -> probably, presumably
+ueberhaupt -> at all (das ist ueberhaupt nicht gut)
+jedenfalls -> certainly (in all cases)
+jedenfalls 2->? anyway
+echt -> really (adj: real, genuine)
+gar -> really (ich bin gar nicht in robin verliebt -> i'm not really 
+	in love with robin)
+voellig -> completely
+durchaus -> absolutely
+eindeutig, bestimmt -> definitely; eindeutig (adj) -> conclusive
+vielleich -> maybe
+
+``` manner ```
+extrem -> extremely
+unheimlich -> incredibly (adj: scary, eerie, uncanny)
 gleich -> equally 
 	2-> immediately (ich komme gleich -> i'm coming in a second)
 annaehernd -> approximately, almost
 eher -> rather (das haus ist eher klein -> that house is rather small)
 fast -> almost, nearly (wieso sind das fast nur typen -> 
 	why are these mostly only dudes)
-staendig -> constantly, continuously
-dauernd -> constantly (ich schaue ihre sendung dauernd -> i watch your 
-	show all the time)
-inzwischen -> in the mean time, meanwhile
-	der hund ist inzwischen so was von tot ->? the dog is so dead right now
-eben -> just (die frau von eben ->the woman from just now (who just left)
-neulich -> recently
-tatsaechlich -> really
-echt -> really (adj: real, genuine)
-gar -> really (ich bin gar nicht in robin verliebt -> i'm not really 
-	in love with robin)
-sonst -> otherwise
-	(ich kenne _sonst niemanden_, der dieses album hat -> i've met _no one
-		else_ who has this album)
-sogar -> even (wenn es hilft, werde ich sogar tanzen -> if it helps,
-	i will even dance)
-sofort -> right away, immediately
-wieder -> again (wiederholen -> to repeat)
-zuerst -> first; zuletzt -> last
 kaum -> barely (er arbeitet kaum -> he barely works)
 	(ich kann es kaum erwarten -> i can barely wait)
-voellig -> completely
-ueberhaupt -> at all (das ist ueberhaupt nicht gut)
-jedenfalls -> certainly (in all cases)
-jedenfalls 2->? anyway
-possible -> moeglich; impossible -> unmoeglich
-durchaus -> absolutely
-eindeutig, bestimmt -> definitely; eindeutig (adj) -> conclusive
-vielleich -> maybe
-unten -> down, downstairs (unten an der tur)
-nebenan -> next door
-sehr genau -> exactly (is sehr necessary?)
 noch ein -> another (er braucht noch eine batterie)
-lieder -> unfortunately
-haben grossen durst -> to be very thirsty
+genug -> enough (haben wir genug Milch?) (genugen -> to suffice)
+sehr genau -> exactly (is sehr necessary?)
 offensichtlicht -> obviously
 anscheinend, scheinbar -> apparently
-ist es wert -> to be worth it
-so viele fische -> so many fish
 noch einen bitte -> another one please ("einen")
-genug -> enough (haben wir genug Milch?) (genugen -> to suffice)
-immer noch -> still (sie isst immer noch -> she is still eating)
-noch -> still (wir leben noch -> we are still alive)
-	noch keine antworten -> no answers yet
 ganz neu ->totally new; ganz -> entire, whole (meine ganze Vergangenheit)
 	Ihre ganze familie -> your entire family
-nachts -> at nights
-waehrend -> during (takes genitive)
-zuvor -> before (die gruppe war zuvor unbekannt)
-	jetzt weiss ich noch weniger als zuvor -> now i know even less than b4 
-vorher -> before (das ist nicht, was du vorher sagtest)
-bis -> until (ich arbeitete bis mitternacht)
-	(bis heute abend, konnte ich _noch nie_  ...)
-entlang -> along (ich spazierte am wasser entlang)
 genauso wichtig -> just as important (die sozialen bezihungen sind ..)
 	(sie hat genauso viel bucher gebaht, _wie_ er sie hatte)
 selbst, selber -> itself, yourself, themselves (selben -> the same) 
 selbst 2->  even (selbst er verstand, was passiert war -> 
 	even he understood what had happened)
-selten -> rarely
-meist -> mostly
-haeufig, oft -> frequently
-immer -> always
-weder ... noch ... -> neither nor (die note ist weder schlecht noch gut)
-einmal -> once (wir versuchen alles einmal)
 zusammen, gemeinsam, miteinander? -> together 
 	(dann planen wir es gemeinsam)
-schon lange -> for a long time (ich kenne ihn schon lange)
-so lange -> as long as (wir behalten sie, so lange wir koennen -> 
-	we are keeping her as long as we can)
-lieber -> better, soon (you better soon find a job!?)
-letztendlich -> eventually
-am ende -> in the end
 
 ============================= adjectives ================================
+moeglich -> possible; unmoeglich -> impossible
+selbstverstaendlich -> self-evident, obvious (adverb: of course)
+individuell -> unique
+begeistert -> excited
+fest -> firm
+ausgezeichnet -> excellent, outstandig
+verschieden -> different
 wichtig -> important 
 	(die groesse ist _uns_ wichtig -> size is important _to_ us)
 zweite (2nd), siebte (7th)
@@ -413,12 +443,23 @@ guenstig -> advantageous, favorable, cheap (billig -> cheap)
 gueltig -> valid, passable
 reine -> pure (es war die reine wahrheit -> it was completely true)
 zustaendig, verantworlich -> responsible
-jeder -> every (jeden abend -> every evening, jede hoffnung)
+jeder -> every (jeden abend -> every evening, jede hoffnung, jedes auto)
 naechste -> next (wir werden naechsten donnerstag schwimmen)
 sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+liegen -> to lie (er liegt auf dem tisch -> he lies on the table)
+stehlen -> to steal (warum stiehlt er -> why does he steal)
+ersetzen -> to replace (er ersetzt dich -> he replaces you)
+	(sie ist nicht _zu_ ersetzen -> she is not to be replaced)
+	(er ersetzt bald das fenster -> he replaces the window soon)
+erlauben -> to allow
+meinen -> to mean (ich weiss was ihr meint)
+verpassen -> to miss smthng (er verpasst es nicht -> he doesn't miss it)
+fehlen -> to be absent (smthng or someone is absent)
+wohnen -> to live
+zahlen -> to pay
 es gab -> there was (eine bibliothek gab es nicht ->there was no library)
 trinken -> to drink (trank or habe getrunken -> past)
 wandern -> to travel (seine bilder wandern mit ihm _um_ die welt ->
@@ -429,7 +470,7 @@ es gibt -> there is, is available
 	(das kleid gibt es nur in diesen groessen -> the dress is only 
 		available in these sizes)
 waschen -> to wash
-lassen x los -> to let x go
+lassen x los -> to let x go (lass uns gehen! -> let us go!)
 teilen -> to share, to divide, to split (ich werde das teil teilen -> 
 	i will split the part)
 machen verantwortlich -> to hold responsible 
@@ -498,6 +539,8 @@ langweilen -> to bore
 erinneren -> to remember
 erzaehlen -> to tell, to recount(erzaehl mir von ihm->tell me about him)
 warten -> to wait (warte mal -> wait!)
+	(auf wen wartest du -> for whom do you wait)
+	(warten Sie auf mich -> wait for me)
 hoffen -> to hope
 anstecken -> to infect
 erwarten -> to expect (die erwartung -> expectation)
@@ -527,6 +570,8 @@ berichten -> to report (der bericht -> report)
 beschreiben -> to describe
 aufhoeren -> to stop
 aufstehen -> to get up 
+stehen -> to stand (die tassen stehen im wasser -> the cups stand in 
+	the water)
 sein aufgestanden -> got up (ich bin so frueh aufgestanden -> 	
 	i woke up early)
 schaffen -> to make, to cope
@@ -574,8 +619,15 @@ scheinen -> to seem (diese loesung scheint mir besser zu sein als jene)
 	erscheinen -> to appear (out of nowhere)(ein wildes pokemon erscheint!)
 		(wirst du erscheinen -> will you show up)
 	aussehen -> to look (sieht alles gut aus -> everything looks good)
+beliebt -> popular
 glauben -> to believe (der glauben -> belief) (keiner wuerde ihm glauben)
 	(er ist jemand, dem ich glaube -> he's someone i believe)
+ 	(ich glaube ihrem kind -> i believe her child; dative)
+glauben an -> to believe _in_ 
+	(ich glaube an dich -> i believe in you; accusative)
+steigen -> to climb, to increase, to ascend
+	(steigen sie aus das pferd -> get on the horse)
+	(wir steigen aus dem auto -> we get out of the car)
 bleiben -> to stay (bleib nicht bei ihm -> do not stay with him)
 verkaufen -> to sell
 kaufen -> to buy
@@ -591,6 +643,8 @@ erhalten -> to receive
 behalten -> to keep (wir wuerden _ihn_ behalten)
 bewegen -> to move (wir bewegen das auto)
 stellen -> to put (die ausstellung -> exhibition)
+	(ihr stellt den stuhl auf das bett -> you put the chair on the bed)
+vorstellen -> to introduce (ich stelle die studentinnen vor)
 sorgen -> to worry, to take care
 	keine sorge -> no worries
 heiraten, verheiraten? -> to marry
@@ -622,9 +676,34 @@ deren -> relative genitive pronouns (fm, pl)
 dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
 	animal that I helped)
 alle -> all (am ende sind alle alleine -> in the end all are alone)
+nichts -> nothing (nichts ist selbstverstaendlich)
+niemand, keiner -> nobody
+
+``` question ```
+wem -> to whom (wem wuerde die jacke gehoeren)
+wen siehst du -> whom do you see
+auf wen wartest du -> for whom do you wait
+wessen -> whose (wessen pferd ist es -> whose horse is it?)
+woher -> from where?
+welche -> which (welches pferd, welchen orangensaft magst du...) 
+	(in welchen _branchen_ arbeiten sie?)
+warum -> why (because of what) and wieso -> how so
+	weshalb -> for which reason (weshalb benimmst du dich so -> 
+		why do you act this way?)
 
 ============================= preposition ===============================
 hinter -> behind (es steht hinter euch -> it's behind you)
+	2-> to the back, nach hinten  (ich gehe hinter)
+	hinten -> in the back (adverb) (is the name of a place)(nach/von .. ok)
+	hinten is a name of a location and as such you can answer the question 
+		Where? by simply saying hinten, given that the context is known.
+	Hinter is a preposition and it puts things or persons in a relation to 
+		one another. So hinter needs to be followed by a noun or person.
+	yourdailygerman.com/2012/02/21/difference-between-hinter-and-hinten/
+auf: on(to)
+	accusative: when it speaks about a direction or destination.
+	dative: when it indicates a stable position or situation.
+bei -> by, at, in (sie steht bei ihm -> she stands by his side)
 ohne -> without
 ausser -> except (er isst nichts ausser obst ->he eats nothing but fruit)
 
@@ -640,6 +719,7 @@ das madchen lernt mit unserem koch / unserer koechin -> the girl learns
 das geht _aufs_ haus -> that is on the house (auf + das = aufs)
 er kommt spaetestens _am_ montag -> he arrives monday at the latest
 der computer ist auf dem tisch -> the computer is on the table
+warum hast du _keinen_ zahnarzt -> why don't you have a dentist
 
 =============================== stuff ===================================
 davon -> about it, from that (sie erfahrt davon?)
@@ -651,7 +731,6 @@ jedoch -> however (es ist jedoch nicht moeglich,jedoch ist es unmoeglich)
 
 jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
-niemand, keiner -> nobody
 
 
 
