@@ -55,6 +55,16 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+der wunsch -> wish
+der liebling -> darling
+die gemeinde -> community, parish
+die sonne -> sun; der mond -> moon
+das alter -> age (er ist in meinem alter/er hat mein alter ->he's my age)
+der pilz -> pilsner; die brezel -> pretzel
+der glaube -> belief
+die moschee -> mosque; die kirche -> church; die synagoge -> synagogue
+der ton -> clay
+der tod -> death
 die position -> position
 der hof -> courtyard
 die qualitaet -> quality
@@ -69,7 +79,7 @@ die ware -> merchandise
 die zeitschrift, das magazin -> magazine
 die nachricht -> message
 der computer -> computer (ich spreche mit meinem freund _am_ computer)
-das Oesterreich -> Austria
+das Oesterreich -> Austria; das Italien -> Italy
 die vorwahl -> area code, prefix
 die wahl -> choice, election
 die abstimmung -> vote
@@ -82,21 +92,26 @@ die moebel -> furniture
 der saft -> juice (der saft ist zu suess -> the juice is too sweet)
 das hauptgericht -> main dish
 der kaefer -> beetle
-die beziehung -> the relationship (die beziehung nimmt ihren lauf ->
-	the relationship is taking its course)
+die beziehung, der verhaeltnis -> relationship (die beziehung nimmt ihren 
+	lauf -> the relationship is taking its course)
+die bevoelkerung -> population
 die bezeichnung -> label
 das zeichen -> sign, mark, character, symbol
 die anforderung -> requirement
 die ernaehrung, die diaet -> diet, nutrition
+die bank -> bench, bank
 die verspaetung -> delay, lateness
-die ehe -> marriage
+die hochzeit -> wedding, die ehe -> marriage
 der rollstuhl -> wheelchair
 die klinik -> clinic
 das krankenhaus -> hospital, die krankheit -> disease
 der grund -> reason, die gruendung -> foundation (building)
 das verhalten -> behavior (sich verhalten -> to behave)
+der priester -> priest
+die wiedergeburt -> reincarnation (glaubst du _an_ wiedergeburt?)
 der loewe -> lion; der elefant, der hamster, das eichhoernchen (squirrel)
-	die gans -> goose (not ganz!)
+	die gans -> goose (not ganz!); die eule -> owl
+der durst -> thirst
 die trommel -> drum
 das orchester -> orchestra; der dirigent -> conductor
 der fall -> case (die faelle), fallen -> to fall, gefallen -> to like
@@ -144,8 +159,11 @@ das land -> country
 der pass -> passport; das visum -> visa
 januar, februar, maerz, april, mai, juni, juli, august, 
 		september, oktober, november, dezember (all der) 
-		(der monat juli - the month of july)
-die saison 
+		(der monat juli - the month of july; im juni)
+die saison, die jahreszeit -> season
+das jahrhundert -> century; das jahr -> year
+der kalender -> calendar; das datum -> date
+der geburtstag -> birthday (ich habe bald geburtstag -> it's my birthday soon)
 die umsetzung -> implementation
 die erfahrung -> experience
 die einfuehrung -> introduction
@@ -198,7 +216,7 @@ der abschluss -> conclusion
 der schluss -> end (ich mach frueher schluss -> i finish my work shift earlier)
 die saison -> season (der winter, der fruehling, der sommer, der herbst)
 der ausflug -> trip, excursion
-das jahrhundert -> century; das jahr -> year
+das wort -> word (der tod hat das letzte wort)
 die antwort -> answer (er kennt alle antworten -> he knows each answer)
 das schwein -> pig; der schinken -> ham
 das fruehstuck -> breakfast; das abendessen -> dinner 
@@ -244,7 +262,7 @@ der muskel -> muscle, der daumen -> thumb, das gehirn -> brain,
 	die ferse -> heel, das blut -> blood, das gesicht -> face, 
 	die huefte -> hip, die brust, der brustkorb -> chest, 
 	das handgelenk -> wrist, die zehe -> toe, das auge -> eye,
-	der koerper -> body, der fuss -> foot
+	der koerper -> body, der fuss -> foot; der mund -> mouth
 das fahrrad -> bicycle
 der grad -> degrees (es sind nur vier grad -> it's only 4 degrees)
 der stil -> style (es war nicht mein stil -> it wasn't my style)
@@ -271,6 +289,8 @@ der schritt -> step
 das vergnuegen -> pleasure (Es ist mir ein Vergnuegen)
 die achtung, die gefahr -> danger
 die seide -> silk
+die wurst -> sausage
+das tier -> animal
 
 ============================== adverbs ==================================
 
@@ -281,6 +301,7 @@ gegenueber -> across the street (er wohnt gegenueber)
 unten -> down, downstairs (unten an der tur)
 nebenan -> next door
 entlang -> along (ich spazierte am wasser entlang)
+unterwegs -> on the way (ich bin unterwegs nach berlin)
 
 ``` connection ```
 deswegen -> therefore, because of that 
@@ -320,11 +341,13 @@ immer noch -> still (sie isst immer noch -> she is still eating)
 spaetestens -> at the latest (spaetestens nach zwei tagen)
 
 ``` frequency ```
+jaehrlich -> yearly
+monatlich -> monthly
+taeglich -> daily
 immer -> always
 selten -> rarely
 meist -> mostly
 haeufig, oft -> frequently
-taeglich -> daily
 staendig -> constantly, continuously
 dauernd -> constantly (ich schaue ihre sendung dauernd -> i watch your 
 	show all the time)
@@ -347,6 +370,8 @@ eindeutig, bestimmt -> definitely; eindeutig (adj) -> conclusive
 vielleich -> maybe
 
 ``` manner ```
+ploetzlich -> suddenly
+am besten -> the best, preferably (ich mag den herbst am besten)
 extrem -> extremely
 unheimlich -> incredibly (adj: scary, eerie, uncanny)
 gleich -> equally 
@@ -359,7 +384,9 @@ kaum -> barely (er arbeitet kaum -> he barely works)
 	(ich kann es kaum erwarten -> i can barely wait)
 noch ein -> another (er braucht noch eine batterie)
 genug -> enough (haben wir genug Milch?) (genugen -> to suffice)
-sehr genau -> exactly (is sehr necessary?)
+genau -> exactly
+	sehr genau -> exactly (is sehr necessary?)
+	(genau wie unser glaube -> exactly like our belief)
 offensichtlicht -> obviously
 anscheinend, scheinbar -> apparently
 noch einen bitte -> another one please ("einen")
@@ -374,6 +401,10 @@ zusammen, gemeinsam, miteinander? -> together
 	(dann planen wir es gemeinsam)
 
 ============================= adjectives ================================
+stolz -> proud
+kuehl -> cool (temperature)
+neben -> next to (der tempel steht neben _der_ synagoge)
+heilig -> holy
 moeglich -> possible; unmoeglich -> impossible
 selbstverstaendlich -> self-evident, obvious (adverb: of course)
 individuell -> unique
@@ -428,7 +459,7 @@ weich -> soft
 knapp -> scarce (das war knapp -> that was close (almost caught..))
 sinnvoll -> useful/meaningful/reasonable/sensible 
 	(das macht sinn -> that makes sense) (in diesem sinne -> in this sense)
-hilfreih -> helpful (habe geholfen -> helped)
+hilfreich -> helpful (habe geholfen -> helped)
 schwach -> weak
 schmutzig -> dirty; sauber -> clean
 trocken -> dry; nass -> wet
@@ -444,11 +475,16 @@ gueltig -> valid, passable
 reine -> pure (es war die reine wahrheit -> it was completely true)
 zustaendig, verantworlich -> responsible
 jeder -> every (jeden abend -> every evening, jede hoffnung, jedes auto)
+	(jeden morgen esse ich eine brezel)
 naechste -> next (wir werden naechsten donnerstag schwimmen)
 sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+traumen -> to dream (meine katze trauemt)
+lieben -> to love (accus) (sie wird _ihn_/_dich_ fuer immer lieben)
+kommen -> to come (du _bist_ gekommen -> you came)
+besuchen -> to visit
 liegen -> to lie (er liegt auf dem tisch -> he lies on the table)
 stehlen -> to steal (warum stiehlt er -> why does he steal)
 ersetzen -> to replace (er ersetzt dich -> he replaces you)
@@ -505,7 +541,8 @@ probieren -> to try, to taste, to try out
 sprechen ueber -> to speak about (sprach -> spoke)
 geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
 zunehmen -> to increase (der handel nimmt zu)
-anrufen, telefonieren -> to call (telephone)
+merken -> to notice (das werden sie bald merken)
+anrufen, telefonieren -> to call (teleph) (acc) (sie werden uns anrufen)
 gelten -> to be valid, to count, to apply (gueltig) 
 	(die wette gielt -> the bet is on)
 schaden -> to damage, (der schaden -> the damage, die schaeden)
@@ -571,11 +608,12 @@ beschreiben -> to describe
 aufhoeren -> to stop
 aufstehen -> to get up 
 stehen -> to stand (die tassen stehen im wasser -> the cups stand in 
-	the water)
+	the water); to be located (der tempel steht neben der synagoge)
 sein aufgestanden -> got up (ich bin so frueh aufgestanden -> 	
 	i woke up early)
 schaffen -> to make, to cope
 verschaffen -> to provide 
+handlen -> to take action, to trade
 verhandeln -> to negotiate
 verfassen, schreiben -> to write
 fassen -> to take, to touch, to grasp
@@ -606,7 +644,7 @@ wirken -> to work (die medizin wird wirken)
 mieten -> to rent, vermieten -> to rent to somebody else (homeowner)
 bestaetigen -> to confirm
 treffen -> to meet (accus: ich treffe den ...)
-dauern -> to last (die fahr dauert sechs tage...)
+dauern -> to last (die fahr dauert sechs tage...; die kirche dauert lange)
 darf -> may (darf ich antworten -> may i ask)
 gewinnen -> to win (der gewinn -> profit)
 ausrichten 2-> to tell (ich richte ihm gruesse (regards) aus -> 
@@ -620,7 +658,7 @@ scheinen -> to seem (diese loesung scheint mir besser zu sein als jene)
 		(wirst du erscheinen -> will you show up)
 	aussehen -> to look (sieht alles gut aus -> everything looks good)
 beliebt -> popular
-glauben -> to believe (der glauben -> belief) (keiner wuerde ihm glauben)
+glauben -> to believe (keiner wuerde ihm glauben)
 	(er ist jemand, dem ich glaube -> he's someone i believe)
  	(ich glaube ihrem kind -> i believe her child; dative)
 glauben an -> to believe _in_ 
@@ -674,7 +712,7 @@ dessen -> relative genitive pronouns (m, n)
 		wife is a teacher)
 deren -> relative genitive pronouns (fm, pl)
 dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
-	animal that I helped)
+	animal that I helped) (verb goes to the end!)
 alle -> all (am ende sind alle alleine -> in the end all are alone)
 nichts -> nothing (nichts ist selbstverstaendlich)
 niemand, keiner -> nobody
@@ -690,6 +728,9 @@ welche -> which (welches pferd, welchen orangensaft magst du...)
 warum -> why (because of what) and wieso -> how so
 	weshalb -> for which reason (weshalb benimmst du dich so -> 
 		why do you act this way?)
+wohin -> (to) where
+	(wohin werden wir nach dem tod gehen || wo werden wir nach dem tod 
+		hingehen -> where will we go after death)
 
 ============================= preposition ===============================
 hinter -> behind (es steht hinter euch -> it's behind you)
@@ -700,9 +741,15 @@ hinter -> behind (es steht hinter euch -> it's behind you)
 	Hinter is a preposition and it puts things or persons in a relation to 
 		one another. So hinter needs to be followed by a noun or person.
 	yourdailygerman.com/2012/02/21/difference-between-hinter-and-hinten/
-auf: on(to)
+auf -> on(to)
 	accusative: when it speaks about a direction or destination.
 	dative: when it indicates a stable position or situation.
+in -> in(to)
+	in fuenfzig jahren -> in fifty years; in einem jahr -> in a year
+	ich war in _der_ moschee -> i was in the mosque
+	wir gingen in eine moschee -> we went into a mosque
+gegen -> against (trinke wasser gegen den durst)
+wir sollen _zu der_ kirche gehen -> we should go to the church
 bei -> by, at, in (sie steht bei ihm -> she stands by his side)
 ohne -> without
 ausser -> except (er isst nichts ausser obst ->he eats nothing but fruit)
