@@ -55,6 +55,18 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die rechtung -> direction (aus _welcher_ rechtung -> from which direct.)
+der sueden -> south
+der norden -> north; nordwaerts -> north direction (wir gehen nordwaerts)
+	(wir gehen richtung norden)
+der wein -> wine
+der termin -> appointment
+der preis -> price
+das maedchen -> girl
+die tomate -> tomato; das brot -> loaf of bread, bread
+der boden -> ground, floor (wir setzen uns auf den boden)
+der einwohnen -> resident
+der bernstein -> amber
 der bus -> bus (die busse -> plural)
 das salz -> salt
 der satz -> sentence
@@ -105,9 +117,12 @@ das stellenangebot -> job offer
 die branche -> industry
 die ware -> merchandise
 die zeitschrift, das magazin -> magazine
+die welle -> wave
 die nachricht -> message
+das dutzend -> dozen (12)
 der computer -> computer (ich spreche mit meinem freund _am_ computer)
-das Oesterreich -> Austria; das Italien -> Italy
+das Oesterreich -> Austria; das Italien -> Italy; 
+	die Schweize -> Switzerland
 die vorwahl -> area code, prefix
 die wahl -> choice, election
 die abstimmung -> vote
@@ -140,7 +155,7 @@ das verhalten -> behavior (sich verhalten -> to behave)
 der priester -> priest
 die wiedergeburt -> reincarnation (glaubst du _an_ wiedergeburt?)
 der loewe -> lion; der elefant, der hamster, das eichhoernchen (squirrel)
-	die gans -> goose (not ganz!); die eule -> owl
+	die gans -> goose (not ganz!); die eule -> owl; die biene -> bee
 der durst -> thirst
 die trommel -> drum
 das orchester -> orchestra; der dirigent -> conductor
@@ -257,14 +272,14 @@ das fruehstuck -> breakfast; das abendessen -> dinner
 das muesli -> cereal
 die speisekarte -> menu
 die bohnen -> beans (food)
-das getraenk -> drink (sie macht ein getraenk aus bohnen -> she prepares a 
-	drink from beans)
+das getraenk -> beverage, drink (sie macht ein getraenk aus bohnen -> 
+	she prepares a drink from beans)
 der loeffel -> spoon
 die rechnung -> bill, account
 die sammlung -> collection, gathering
 der platz -> place
 der kampf -> fight, struggle
-der nachtisch -> dessert (der kuchen -> cake)
+der nachtisch -> dessert; der kuchen -> cake
 der tisch -> table (wir stellen die teller auf den tisch)
 der himmel -> sky
 die ware -> product (das warehaus)
@@ -296,7 +311,7 @@ der muskel -> muscle, der daumen -> thumb, das gehirn -> brain,
 	die huefte -> hip, die brust, der brustkorb -> chest, 
 	das handgelenk -> wrist, die zehe -> toe, das auge -> eye,
 	der koerper -> body, der fuss -> foot; der mund -> mouth;
-	die schulter -> shoulder
+	die schulter -> shoulder; der arm; der kopf -> head
 das fahrrad -> bicycle
 der grad -> degrees (es sind nur vier grad -> it's only 4 degrees)
 der stil -> style (es war nicht mein stil -> it wasn't my style)
@@ -329,6 +344,10 @@ das tier -> animal
 ============================== adverbs ==================================
 
 ``` location ```
+weit -> far (er geht weit weg -> he goes far away)
+hinaus -> out (er geht hinaus in die welt -> he goes out into the world)
+voraus -> ahead of (sie ist _ihm_ voraus -> she's ahead of him)
+darauf -> on that, thereon (sit setzen sich darauf)
 nach hause -> (to) home (er ist nach hause gegangen -> he went home)
 ueberall -> everywhere (man kann es ueberall lesen -> one can read it
 	everywhere)
@@ -341,7 +360,7 @@ entlang -> along (ich spazierte am wasser entlang)
 unterwegs -> on the way (ich bin unterwegs nach berlin)
 
 ``` connection ```
-deswegen -> therefore, because of that 
+deswegen, deshalb -> therefore, because of that 
 	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
 wegen -> because of (nicht wegen mir -> not because of me)
 sonst -> otherwise
@@ -388,6 +407,7 @@ wieder -> again (wiederholen -> to repeat)
 ``` frequency ```
 jaehrlich -> yearly
 monatlich -> monthly
+woechentlich -> weekly
 taeglich -> daily
 immer -> always
 selten -> rarely
@@ -415,7 +435,11 @@ durchaus -> absolutely, definitely
 eindeutig, bestimmt -> definitely; eindeutig (adj) -> conclusive
 vielleich -> maybe
 
+``` vague ```
+irgendwer -> somebody
+
 ``` manner ```
+persoenlich -> personal
 ein bisschen -> a little bit
 ploetzlich -> suddenly
 am besten -> the best, preferably (ich mag den herbst am besten)
@@ -448,6 +472,11 @@ zusammen, gemeinsam, miteinander? -> together
 	(dann planen wir es gemeinsam)
 
 ============================= adjectives ================================
+passend -> suitable, matching (meine passende hose -> my matching pants)
+ehemalig -> former 
+unsichtbar -> invisible
+bekannt -> famous, well-known (er ist mir bekannt -> he's familiar to me)
+besondere, speziell -> special
 gesamt -> total, whole(der gesamte kopf ist blau->the whole head is blue)
 zusaetlich -> additional
 eigen -> own (du bist dein eigener arbeitgeber)
@@ -544,10 +573,20 @@ zustaendig, verantworlich -> responsible
 jeder -> every (jeden abend -> every evening, jede hoffnung, jedes auto)
 	(jeden morgen esse ich eine brezel)
 naechste -> next (wir werden naechsten donnerstag schwimmen)
+	(wann ist dein naechter termin -> when's your next appointment)
 sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+mecken x -> to wake up x (kannst du mich um sieben wecken)
+entscheiden sich -> to decide (du sollst dich nicht jetzt entscheiden)
+verlaufen sich -> to get lost (er hat sich im walt verlaufen)
+eintragen sich -> to enroll, to sign in
+entfernen -> to remove x
+ermoeglichen -> to make x possible
+erreichen -> to accomplish
+rundlaufen -> to run smoothly (grossvater und ich werden dafür sorgen, 
+	dass alles rund läuft)
 veroeffentlichen -> to publish (haben veroeffentlicht -> past)
 schwimmen -> to swim (bin geschwommen -> past)
 beitreten -> to join
@@ -559,9 +598,12 @@ traumen -> to dream (meine katze trauemt) (wir traumen _von_ einer ente)
 lieben -> to love (accus) (sie wird _ihn_/_dich_ fuer immer lieben)
 kommen -> to come (du _bist_ gekommen -> you came)
 besuchen -> to visit (haben gesucht -> past)
+holen sich -> to get, to fetch (wir holen uns pizza)
 liegen -> to lie (er liegt auf dem tisch -> he lies on the table)
 stehlen -> to steal (warum stiehlt er -> why does he steal) 
 	(haben gestohlen -> past)
+setzen sich -> to sit down (setzen wir uns -> let's sit down)
+	(er hat sich auf _den_ stuhl gesetzt -> he sat down on the chair)
 ersetzen -> to replace (er ersetzt dich -> he replaces you)
 	(sie ist nicht _zu_ ersetzen -> she is not to be replaced)
 	(er ersetzt bald das fenster -> he replaces the window soon)
@@ -593,6 +635,7 @@ anfangen -> to start (es fing vor ein paar wochen an -> it started a few
 leugnen -> to deny
 lernen -> to learn (haben gelernt -> past)
 kennenlernen -> to get to know, to meet someone
+kennen -> to know x (kennen sie meinen zahnarzt)
 vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
 feststellen -> to find out, to determine
 reagieren -> to react, .. ueber -> overreact
@@ -625,6 +668,7 @@ sprechen ueber -> to speak about (sprach -> spoke)
 ansprechen -> to speak to sb. (ich spreche ihn erneut an -> i speak with
 	him again)
 geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
+nehmen -> to take (nimm es nicht persoenlich -> don't take it personally)
 zunehmen -> to increase (der handel nimmt zu)
 merken -> to notice (das werden sie bald merken)
 anrufen, telefonieren -> to call (teleph) (acc) (sie werden uns anrufen)
@@ -657,6 +701,7 @@ aufhoeren -> to stop
 gehoeren -> to belong (die institute gehoeren zu der universitaet)
 	(accus: wohin gehoerst du? wo gehoerst du hin?)(es wuerde dir gehoeren)
 messen -> to measure (er misst die temperatur)
+anzeigen -> to report (to the police?)
 zeigen -> to show, to demonstrate (bitte zeige verstaendis)
 klingeln -> to ring (phone)
 beraten -> to advise (hat sie Sie beraten -> did she advise you)
@@ -667,7 +712,7 @@ erzaehlen -> to tell, to recount (passive)
 	(hast du ihm nichts _erzaehlt_ -> did you tell him nothing)
 warten -> to wait (warte mal -> wait!)
 	(auf wen wartest du -> for whom do you wait)
-	(warten Sie auf mich -> wait for me)
+	(warten Sie auf mich -> wait for me) (wo werden sie auf mich warten)
 hoffen -> to hope
 anstecken -> to infect
 erwarten -> to expect (die erwartung -> expectation)
@@ -681,6 +726,7 @@ fordern -> to demand
 foerdern -> to promote, to encourage
 ergeben -> to yield, to result in, to make 
 	(dass ergibt keinen sinn (der sinn) -> that doesn't make sense)
+ergeben sich -> to give up, to surrender
 zugeben -> to admit
 spazierten -> to walk
 enttaeuschen -> to disappoint, to let down
@@ -693,6 +739,7 @@ beantworten -> to answer (always with direct obj)
 	(ich beantworte (dir) die frage)
 	(Kannst du mir beantworten, wieso du immer zu spaet kommst?)
 wuenschen -> to wish jemanden (er wuensche dir eine gute reise)
+	(was soll ich mir noch wuenschen -> what else should i wish for more)
 einrichten -> to set up, to arrange (an event?) 
 berichten -> to report (der bericht -> report)
 beschreiben -> to describe
@@ -710,7 +757,9 @@ verfassen, schreiben -> to write
 fassen -> to take, to touch, to grasp
 	(ich fasse es nicht -> i don't believe it)
 linsen -> to peek
-versammeln -> to gather (er hat uns hier versammelt->he gathered us here)
+sammeln -> to collect (sie sammelt bernstein)
+versammeln sich -> to gather (er hat uns hier versammelt->he gathered 
+	us here) (people mostly?)
 verlieren -> to lose (er verlor seine haare)
 verlassen -> to leave (verlassen ihn, not ihm)
 vermeiden -> to avoid (ich wuerde ihn vermeiden)
@@ -762,9 +811,11 @@ verkaufen -> to sell
 kaufen -> to buy
 spielen -> to play (haben gespielt -> past)
 einkaufen -> to go shopping
+ansehen mir -> to watch (ich sehe mir die wellen auf dem meer an) 
 sehen -> to see (haben gesehen -> past)
 einsehen -> to see, to recognize (appreciate a mistake?)
-fuehlen -> to feel (das gefuehl -> feeling)
+fuehlen sich -> to feel (das gefuehl -> feeling)
+	(er fuehlt sich nicht gut)
 ueberweisen -> to transfer (money) (ueberwiesen for past perfect)
 werben -> to advertise, erwerben -> to acquire, die werbung->advertisement
 	bewerben -> to apply (to a job)
@@ -776,8 +827,10 @@ bewegen -> to move (wir bewegen das auto)
 stellen -> to put (die ausstellung -> exhibition)
 	(ihr stellt den stuhl auf das bett -> you put the chair on the bed)
 vorstellen -> to introduce (ich stelle die studentinnen vor)
-sorgen -> to worry, to take care
+sorgen -> to worry, to take care, to ensure
 	keine sorge -> no worries
+	(ich werde fuer dich sorgen -> i will care for you (bring food etc.))
+borgen -> to borrow
 heiraten, verheiraten? -> to marry
 folgen -> to follow (ich folge _dir_ -> i follow you), to succeed?
 erfolgen -> to happen, to take place 
@@ -796,6 +849,9 @@ lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink,
 hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
+seit -> since (Seit er seine Abschlussprüfung gemacht hat, ist er 
+	arbeitslos)
+seitdem -> ever since? (seitdem ich sie kenne, ist sie verheiratet)
 sowohl x als auch y -> x as well as y (ich trinke sowohl tee als auch 
 	wein -> i drink both tea and wine)
 egal -> anyway, wherever
@@ -818,6 +874,7 @@ keinerlei -> no ... at all (er hat keinerlei freunde -> he has no
 	friends at all)
 kein -> no
 	(ich habe heute kein wasser getrunken -> i didn't drink water today)
+	(er will _kein weiteres_ brot -> he doesn't want _any more_ bread)
 
 ``` question ```
 wem -> to whom (wem wuerde die jacke gehoeren)
@@ -827,7 +884,8 @@ wen hat sie veroeffentlicht -> who did she publish (vs. wer hat sie
 	veroeffentlicht -> who published them)
 auf wen wartest du -> for whom do you wait
 wessen -> whose (wessen pferd ist es -> whose horse is it?)
-woher -> from where?
+woher -> from where? (woher kommt dein freund -> from where is your 
+	friend)
 welche -> which (welches pferd, welchen orangensaft magst du...) 
 	(in welchen _branchen_ arbeiten sie?)
 warum -> why (because of what) and wieso -> how so
@@ -872,6 +930,7 @@ das geht _aufs_ haus -> that is on the house (auf + das = aufs)
 er kommt spaetestens _am_ montag -> he arrives monday at the latest
 der computer ist auf dem tisch -> the computer is on the table
 warum hast du _keinen_ zahnarzt -> why don't you have a dentist
+er mag dein _deutschen_ wein -> he likes the german wine
 
 =============================== stuff ===================================
 davon -> about it, from that (sie erfahrt davon?)
@@ -879,7 +938,6 @@ davon -> about it, from that (sie erfahrt davon?)
 dazu -> for that, about that (dazu moechte ich nichts sagen)
 dabei -> with me, with it (ich habe es nicht dabei -> i don't have it 
 	with me)
-deshalb -> that's why
 
 jedoch -> however (es ist jedoch nicht moeglich,jedoch ist es unmoeglich)
 
@@ -887,6 +945,7 @@ jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
 
 ============================== phrases ==================================
+in ordnung, schon gut -> alright
 nicht mere und nicht weniger -> no more and no less
 ist ihnen schlecht -> are they sick?
 je mehr, desto besser -> the more the better
@@ -896,6 +955,9 @@ es hat mir _sehr gut_ gefallen -> i liked it very much (accusative)
 Ein weiterer monat und ich bin frei wie der wind.
 
 =========================== complex grammar =============================
+gib es unserem vater -> give it to our father (imperative + dative)
 ich habe ihn schwimmen sehen (not gesehen) -> i've seen him swim
 	http://www.canoo.net/services/OnlineGrammar/Wort/Verb/Finit-Infinit/Part2.html?lang=en#Anchor-Ersatzinfinitiv-35882
+wann ist _dein naechster_ Termin? -> it's not meiner..
+	https://en.wikipedia.org/wiki/German_declension#Mixed_inflection.5B4.5D
 
