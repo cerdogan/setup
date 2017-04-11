@@ -30,6 +30,7 @@ im -> in the (gibt es im zoo zebras)n
 wuerde (would - ich wuerde gehen) vs. wurde (passive - 
 	ich wurde gefahren: i was driven)
 alles (pronoun) -> everything, alle (pronoun) -> all 
+	(dies alles ist vergangenheit -> this is all past)
 wir fordern _unser_ geld zurueck.
 dann werde ich gehen -> dann counts as the first word in sentence
 wann habt ihr _sie mit ihm tanzen_ sehen -> interesting...
@@ -55,7 +56,14 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
-die rechtung -> direction (aus _welcher_ rechtung -> from which direct.)
+die vergangenheit -> past
+das ende -> end; das wochenende -> weekend
+der nachbar -> neighbor
+die loesung -> solution
+der begriff -> term, concept (wir vermeiden diesen begriff)
+die ausruestung, das zubehoer -> equipment
+die sache -> thing, matter
+die richtung -> direction (aus _welcher_ richtung -> from which direct.)
 der sueden -> south
 der norden -> north; nordwaerts -> north direction (wir gehen nordwaerts)
 	(wir gehen richtung norden)
@@ -195,7 +203,7 @@ die not -> need, distress (der arzt sieht seine not -> the doctor sees
 der regenbogen -> rainbow
 das handy, das mobile -> cellphone
 das handtuch -> towel
-der dusche -> shower
+die dusche -> shower; das shampoo -> shampoo
 die tasche -> bag, der tisch -> table, der teller -> plate, 
 	die tasse -> cup
 der reisefuehrer -> travel guide
@@ -215,7 +223,7 @@ die umsetzung -> implementation
 die erfahrung -> experience
 die einfuehrung -> introduction
 das gewicht -> weight
-die familie -> family
+die familie -> family; die tante -> aunt
 der hut -> hat; die jacke, die hoese, die socke, das hemd
 der ort -> town
 der flughafen -> airport | ich fahre _zum_ flughafen
@@ -274,7 +282,7 @@ die speisekarte -> menu
 die bohnen -> beans (food)
 das getraenk -> beverage, drink (sie macht ein getraenk aus bohnen -> 
 	she prepares a drink from beans)
-der loeffel -> spoon
+der loeffel -> spoon; das messer -> knife; die gabel -> fork
 die rechnung -> bill, account
 die sammlung -> collection, gathering
 der platz -> place
@@ -360,6 +368,7 @@ entlang -> along (ich spazierte am wasser entlang)
 unterwegs -> on the way (ich bin unterwegs nach berlin)
 
 ``` connection ```
+nun -> well (nun, ich weiss, sie wuerden den besten preis (be)zahlen)
 deswegen, deshalb -> therefore, because of that 
 	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
 wegen -> because of (nicht wegen mir -> not because of me)
@@ -375,7 +384,9 @@ so lange -> as long as (wir behalten sie, so lange wir koennen ->
 doch -> but (dies kannst du _doch_ nicht tun -> but you can't do this)
 
 ``` time ```
+nie -> never
 gerade -> right now
+zwistchen -> between (zwischen vergangenheit und zukunft)
 inzwischen -> in the mean time, meanwhile
 	der hund ist inzwischen so was von tot ->? the dog is so dead right now
 eben -> just (die frau von eben ->the woman from just now (who just left)
@@ -417,7 +428,6 @@ staendig -> constantly, continuously
 dauernd -> constantly (ich schaue ihre sendung dauernd -> i watch your 
 	show all the time)
 einmal -> once (wir versuchen alles einmal)
-lieber -> better, soon (you better soon find a job!?)
 
 ``` possibility ```
 tatsaechlich -> actually, really, indeed
@@ -437,8 +447,15 @@ vielleich -> maybe
 
 ``` vague ```
 irgendwer -> somebody
+irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+mindestens -> at least
+schnell -> quickly (ich wuerde schnell die richtung aendern)
+lieber -> better, soon (you better soon find a job!?)
+	2-> rather (sie macht lieber alles selbst -> she prefers to do 
+		everything herself)
+viel mehr -> much more
 persoenlich -> personal
 ein bisschen -> a little bit
 ploetzlich -> suddenly
@@ -470,8 +487,13 @@ selbst 2->  even (selbst er verstand, was passiert war ->
 	even he understood what had happened)
 zusammen, gemeinsam, miteinander? -> together 
 	(dann planen wir es gemeinsam)
+allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+einsam -> lonely
+seltsam -> strange
+allgemein -> general (das ist zu allgemein -> that is too general)
+komisch -> strange
 passend -> suitable, matching (meine passende hose -> my matching pants)
 ehemalig -> former 
 unsichtbar -> invisible
@@ -578,6 +600,10 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+aendern -> to change
+melden -> to report
+bewegen sich -> to move (da, etwas bewegt sich)
+lehren -> to teach
 mecken x -> to wake up x (kannst du mich um sieben wecken)
 entscheiden sich -> to decide (du sollst dich nicht jetzt entscheiden)
 verlaufen sich -> to get lost (er hat sich im walt verlaufen)
@@ -590,12 +616,16 @@ rundlaufen -> to run smoothly (grossvater und ich werden dafür sorgen,
 veroeffentlichen -> to publish (haben veroeffentlicht -> past)
 schwimmen -> to swim (bin geschwommen -> past)
 beitreten -> to join
+auftreten -> to perform?
+eintreten -> to enter
+treten -> to kick
 betrachten -> to look at, to observe (to track connection?)
 mitmachen, teilnehmen -> to participate
 helfen -> to help (dative) (du musst ihn helfen -> you have to help him)
 lachen -> to laugh
 traumen -> to dream (meine katze trauemt) (wir traumen _von_ einer ente)
 lieben -> to love (accus) (sie wird _ihn_/_dich_ fuer immer lieben)
+ankommen -> to arrive (er kommt spaetestens am montag an)
 kommen -> to come (du _bist_ gekommen -> you came)
 besuchen -> to visit (haben gesucht -> past)
 holen sich -> to get, to fetch (wir holen uns pizza)
@@ -710,7 +740,7 @@ erinneren -> to remember
 erzaehlen -> to tell, to recount (passive)
 	(erzaehl mir von ihm -> tell me about him)
 	(hast du ihm nichts _erzaehlt_ -> did you tell him nothing)
-warten -> to wait (warte mal -> wait!)
+warten auf -> to wait (warte mal -> wait!)
 	(auf wen wartest du -> for whom do you wait)
 	(warten Sie auf mich -> wait for me) (wo werden sie auf mich warten)
 hoffen -> to hope
@@ -772,7 +802,10 @@ vertrauen -> to trust
 verraten -> to reveal, to betray (verrate mir etwas ueber dich, das 
 	ich noch nicht weiss -> tell me smt about you that i don't know yet)
 versprechen -> to promise
-wenden -> to turn
+sich an jemanden wenden -> to turn to sb for advice, to consult sb
+	(er wuerde sich an den koenig wenden)
+wenden -> to turn (ich wuerde vor dem theater wenden -> i'd turn 
+	around in front of the theater)
 erwidern -> return, reciprocate (meine gefuehle niemals erwidern wird 
 	-> my feelings will never be reciprocated)
 gucken -> to watch, to see (tv)
@@ -839,7 +872,8 @@ vorkommen -> to happen, to occur (in der tierwelt kommt das nie vor
 	-> in the animal kingdom that never happens)
 erfahren -> to find out (haben erfahren -> past)
 leisten -> to achieve, to accomplish, to perform? 
-	die leistung -> achievement
+	(sie wuerde viel mehr leisten -> she would achieve much more)
+	die leistung -> achievement 
 empfehlen -> to recommend (die empfehlung -> recommendation)
 danken -> to thank (ich danke _deinem_ mann)
 tragen -> to wear, to carry (accus: er traegt einen modernen hut)
@@ -849,15 +883,24 @@ lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink,
 hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
+statt -> instead of (sie macht lieber alles selbst, statt einen 
+	Handwerker zu bezahlen -> she prefers to do everything herself 
+	instead of paying for a craftsman)
+dann -> then (dann wuerden sie dafuer zahlen)
 seit -> since (Seit er seine Abschlussprüfung gemacht hat, ist er 
 	arbeitslos)
 seitdem -> ever since? (seitdem ich sie kenne, ist sie verheiratet)
 sowohl x als auch y -> x as well as y (ich trinke sowohl tee als auch 
 	wein -> i drink both tea and wine)
 egal -> anyway, wherever
+	-> no matter (egal, was du machst -> no matter what you do)
+		(egal, wie teuer es ist -> no matter how expensive it is)
 ich weisse nicht, wieso ich das getan habe -> i dunno why i did that
+ich zeige Ihnen, was im Paket ist -> i show you what's in the package
+es ist zeit das zu lernen -> it's time to learn that
 
 =============================== pronoun =================================
+jene -> those (search for it in this doc)
 beide -> both
 dessen -> relative genitive pronouns (m, n)
 	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
@@ -877,8 +920,9 @@ kein -> no
 	(er will _kein weiteres_ brot -> he doesn't want _any more_ bread)
 
 ``` question ```
+womit -> with what (womit bezahlen sie -> with what do you pay)
 wem -> to whom (wem wuerde die jacke gehoeren)
-wen siehst du -> whom do you see
+wen siehst du -> whom do you see; wen zitieren wir -> whom do we cite
 wen hat es interessiert -> who was interested in it
 wen hat sie veroeffentlicht -> who did she publish (vs. wer hat sie
 	veroeffentlicht -> who published them)
@@ -936,8 +980,9 @@ er mag dein _deutschen_ wein -> he likes the german wine
 davon -> about it, from that (sie erfahrt davon?)
 	(was habe ich davon -> what do i get from that)
 dazu -> for that, about that (dazu moechte ich nichts sagen)
-dabei -> with me, with it (ich habe es nicht dabei -> i don't have it 
-	with me)
+dabei -> with me, with it, included 
+	(ich habe es nicht dabei -> i don't have it with me) 
+	(welches zubehoer ist dabei -> which equipment is included)
 
 jedoch -> however (es ist jedoch nicht moeglich,jedoch ist es unmoeglich)
 
@@ -952,7 +997,8 @@ je mehr, desto besser -> the more the better
 was ist schon dabei -> what's the matter with it
 es hat mir _sehr gut_ gefallen -> i liked it very much (accusative)
 	es gefaellt mir -> i like it
-Ein weiterer monat und ich bin frei wie der wind.
+ein weiterer monat und ich bin frei wie der wind.
+löcher in die luft gucken/starren -> to stare into space
 
 =========================== complex grammar =============================
 gib es unserem vater -> give it to our father (imperative + dative)
@@ -960,4 +1006,9 @@ ich habe ihn schwimmen sehen (not gesehen) -> i've seen him swim
 	http://www.canoo.net/services/OnlineGrammar/Wort/Verb/Finit-Infinit/Part2.html?lang=en#Anchor-Ersatzinfinitiv-35882
 wann ist _dein naechster_ Termin? -> it's not meiner..
 	https://en.wikipedia.org/wiki/German_declension#Mixed_inflection.5B4.5D
+zahlen vs. bezahlen: in general, compatible with zahlen more general
+	- bezahlen to pay someone (not zahlen): 
+		(ich bezahle dich nicht dafür, dass du löcher in die luft guckst)
+	- bezahlen -> to indicate completion (not zahlen)
+		(ist die waschmaschine bezahlt? -> Is the washing machine paid for?)
 
