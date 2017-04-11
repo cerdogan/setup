@@ -2,7 +2,27 @@
 #tmux source-file ~/.tmux.conf
 if [ "$TMUX" = "" ]; then tmux; fi
 
+. /opt/ros/indigo/setup.zsh
+. /home/cerdogan/Documents/rbo/git/wp1/human_grasping/catkin_ws/devel/setup.zsh
+. ~/Documents/rbo/git/wam/devel/setup.zsh
+
+
+export LM_PROJECT=Robot
+export TZ=Europe/Berlin
+export PYTHONSTARTUP=/home/cerdogan/.pythonstartup
+export SVN_EDITOR=vim
+export PNEUMATICBOX_IP=beagle-bottom2
+export WM5_PATH=/home/cerdogan/Documents/Tools/GeometricTools/WildMagic5/SDK
+#export PYTHONPATH=$PYTONPATH:~/Documents/rbo/git/wp4/hybrid-automaton-tools-py
+
 # Binaries
+alias pwp4='cd ~/Documents/rbo/personal/wp4/forceRRT'
+alias svnmeld="svn diff --diff-cmd='meld'"
+alias cleanvlc='kill -9 `ps aux | grep vlc | awk ''{print $2}''`'
+alias cdsvn='cd ~/Documents/rbo/svn/papers'
+alias copy_todo='cp ~/.ToDo/`date --date="yesterday" +%Y-%m-%d`.txt ~/.ToDo/`date +%Y-%m-%d`.txt'
+alias todo='vim ~/.ToDo/`date +%Y-%m-%d`.txt'
+alias yesterday='vim ~/.ToDo/`date --date="yesterday" +%Y-%m-%d`.txt'
 alias gdb='gdb --args'
 alias make='for i in {1..25}; do echo ""; done; clear; make'
 alias oldowan='cd /home/cerdogan/Documents/Oldowan/build/'
