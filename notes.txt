@@ -56,6 +56,24 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+der inhalt -> content (denken sie _an_ die inhalte -> do you think about
+	the contents)
+der verlust -> loss (unser gewinn ist sein verlust)
+das studio -> studio
+die mode -> fashion (aus der mode -> out of fashion)
+die kritik -> review
+der entwurf -> draft
+die sicherheit -> security
+die aenderung -> change
+der empfang -> reception
+die zusammenarbeit -> collaboration
+	(nach _einem_ jahr wurde die zusammenarbeit beendet)
+die gelegenheit -> opportunity, occasion
+das verzeichnis -> directory
+die geschichte -> history, story (sie erzaehlt eine geschichte)
+das kapitel -> chapter, section (das kapitel dieses buches)
+die unterhaltung -> entertainment, conversation
+die beschreibung -> description
 die vergangenheit -> past
 das ende -> end; das wochenende -> weekend
 der nachbar -> neighbor
@@ -83,7 +101,10 @@ das handwerk -> craft
 der kaese -> cheese
 das meer, die see -> sea (er ist _im_ meer geschwommen)
 die insel -> island
-die flaeche -> area
+die flaeche -> area, die oberflaeche -> surface
+die reparatur, die ausbesserung -> repair
+die quittung -> receipt
+die auflage -> circulation, edition (magazine?)
 die landwirtschaft -> agriculture
 das klima -> climate
 die welt -> world; die tierwelt -> animal kingdom
@@ -135,7 +156,7 @@ die vorwahl -> area code, prefix
 die wahl -> choice, election
 die abstimmung -> vote
 die freude -> pleasure, joy
-der anfang -> beginning
+der anfang, der start -> beginning
 der baer -> bear
 die groesse -> size
 die baumwolle -> cotton
@@ -182,7 +203,11 @@ der lauf -> course, run (das ist der lauf der geschichte -> that's the
 der prozess -> trial (not der versuch (attempt))
 das unternehmen, das geschaeft -> business (die firma)
 die bewertung -> assessment
-der inhaber -> owner, incumbent
+der inhaber -> owner, incumbent (der inhaber steht unter druck ->
+	the owner is under pressure)
+die naehe -> vicinity, neighborhood
+	2-> near (sie gehoert in deine naehe -> she belongs near you)
+	(ist es _in der naehe von_ deinem haus / euren haus)
 der nachweis -> proof
 das feuer -> fire
 der schueler -> pupil
@@ -273,6 +298,7 @@ der schluss -> end (ich mach frueher schluss -> i finish my work shift earlier)
 die saison -> season (der winter, der fruehling, der sommer, der herbst)
 der ausflug -> trip, excursion
 das wort -> word (der tod hat das letzte wort)
+die sprache -> language
 die antwort -> answer (er kennt alle antworten -> he knows each answer)
 das schwein -> pig; der schinken -> ham
 das fruehstuck -> breakfast; das abendessen -> dinner 
@@ -310,9 +336,10 @@ das mittagessen -> lunch
 die blume -> flower; der baum -> tree
 die leute -> people (ich kenne keine normalen leute)
 der druck -> pressure (ohne druck -> no pressure)
+	(das formular ist im druck -> the form is in print)
 	(druecken -> to push; ausdrucken -> to print)
-die naehe -> vicinity, neighborhood
-der brief -> letter
+	(druck kann gut sein -> pressure can be good)
+der brief -> letter; der briefkasten -> mailbox
 der muskel -> muscle, der daumen -> thumb, das gehirn -> brain, 
 	die stirn -> forehead, der knoechel -> ankle, der knochen -> bone,
 	die ferse -> heel, das blut -> blood, das gesicht -> face, 
@@ -375,8 +402,10 @@ wegen -> because of (nicht wegen mir -> not because of me)
 sonst -> otherwise
 	(ich kenne _sonst niemanden_, der dieses album hat -> i've met _no one
 		else_ who has this album)
+	(die unterhaltung war dann zu ende, aber sonst nichts -> 
+		the conversation was over then, _but nothing else_)
 sogar -> even (wenn es hilft, werde ich sogar tanzen -> if it helps,
-	i will even dance)
+	i will even dance) (sie schreibt sogar ein kapitel)
 lieder -> unfortunately
 weder ... noch ... -> neither nor (die note ist weder schlecht noch gut)
 so lange -> as long as (wir behalten sie, so lange wir koennen -> 
@@ -490,6 +519,9 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+vorne -> up front; da vorne -> up there
+groesser -> bigger (das ding ist groesser _als_ die tasse)
+wertvoll -> valuable
 einsam -> lonely
 seltsam -> strange
 allgemein -> general (das ist zu allgemein -> that is too general)
@@ -501,7 +533,7 @@ bekannt -> famous, well-known (er ist mir bekannt -> he's familiar to me)
 besondere, speziell -> special
 gesamt -> total, whole(der gesamte kopf ist blau->the whole head is blue)
 zusaetlich -> additional
-eigen -> own (du bist dein eigener arbeitgeber)
+eigen -> own (du bist dein eigener arbeitgeber) (mein eigener entwurf)
 einzeln -> individual, single
 	(die einzelnen betten sind hier -> the individual beds are here)
 weiter -> further, other (ein weiterer besucher kommt _dieses jahr_)
@@ -522,6 +554,7 @@ tapfer -> brave, mutig
 stolz -> proud (wir sind stolz auf unsere tochter)
 kuehl -> cool (temperature)
 neben -> next to (der tempel steht neben _der_ synagoge)
+	(der briefkasten ist neben dem eingang)
 heilig -> holy
 moeglich -> possible; unmoeglich -> impossible
 selbstverstaendlich -> self-evident, obvious (adverb: of course)
@@ -568,7 +601,7 @@ einzige -> single (es reicht nur fuer eine einzige person)
 aehnlich -> similar (aehnlich wie damals -> as then) 
 	(das dem vater aehnlich kind -> child like his father)
 hoch -> high; hoch oben -> high up (er ist hoch oben in der firma)
-dort oben -> up there
+dort oben -> up there (dort oben ist eine galerie)
 bereit -> ready; bereits -> already (adverb)
 vorbei -> passed (der winter ist vorbei) (das gehr vorbei -> that's passing)
 wahr -> true (die wahrheit -> truth); falsch -> false; 
@@ -621,6 +654,7 @@ eintreten -> to enter
 treten -> to kick
 betrachten -> to look at, to observe (to track connection?)
 mitmachen, teilnehmen -> to participate
+	(die mode macht sie nicht mit->she's not participating in that fashion)
 helfen -> to help (dative) (du musst ihn helfen -> you have to help him)
 lachen -> to laugh
 traumen -> to dream (meine katze trauemt) (wir traumen _von_ einer ente)
@@ -638,7 +672,8 @@ ersetzen -> to replace (er ersetzt dich -> he replaces you)
 	(sie ist nicht _zu_ ersetzen -> she is not to be replaced)
 	(er ersetzt bald das fenster -> he replaces the window soon)
 erlauben -> to allow
-meinen -> to mean (ich weiss was ihr meint)
+meinen -> to think, to opine (ich weiss was ihr meint) 
+bedeuten -> to indicate, to mean (was bedeutet dieser brief)
 verpassen -> to miss smthng (er verpasst es nicht -> he doesn't miss it)
 fehlen -> to be absent (smthng or someone is absent)
 wohnen -> to live
@@ -751,8 +786,10 @@ fragen -> to ask, anfragen -> to investigate (bei jemandem anfragen)
 		i wonder whether it's worth it)
 	(darf ich Sie _nach_ Ihrem Namen fragen -> may i ask you for your name)
 fuehren -> to lead
-haben -> to have (accusative) (ich habe einen hund)
-fordern -> to demand
+haben -> to have (accusative) (ich habe einen hund) (gehabt -> past)
+bestehen -> to insist (er besteht auf seinen rechten -> he insists on
+	his rights)
+fordern -> to demand (er fordert einen stuhl)
 foerdern -> to promote, to encourage
 ergeben -> to yield, to result in, to make 
 	(dass ergibt keinen sinn (der sinn) -> that doesn't make sense)
@@ -772,7 +809,7 @@ wuenschen -> to wish jemanden (er wuensche dir eine gute reise)
 	(was soll ich mir noch wuenschen -> what else should i wish for more)
 einrichten -> to set up, to arrange (an event?) 
 berichten -> to report (der bericht -> report)
-beschreiben -> to describe
+beschreiben -> to describe 
 aufhoeren -> to stop
 aufstehen -> to get up 
 stehen -> to stand (die tassen stehen im wasser -> the cups stand in 
@@ -802,6 +839,7 @@ vertrauen -> to trust
 verraten -> to reveal, to betray (verrate mir etwas ueber dich, das 
 	ich noch nicht weiss -> tell me smt about you that i don't know yet)
 versprechen -> to promise
+beenden -> to end something (du hast das spiel beendet)
 sich an jemanden wenden -> to turn to sb for advice, to consult sb
 	(er wuerde sich an den koenig wenden)
 wenden -> to turn (ich wuerde vor dem theater wenden -> i'd turn 
@@ -999,6 +1037,7 @@ es hat mir _sehr gut_ gefallen -> i liked it very much (accusative)
 	es gefaellt mir -> i like it
 ein weiterer monat und ich bin frei wie der wind.
 löcher in die luft gucken/starren -> to stare into space
+im begriff zu x -> about to x (sie ist im begriff zu gehen)
 
 =========================== complex grammar =============================
 gib es unserem vater -> give it to our father (imperative + dative)
