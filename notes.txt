@@ -23,7 +23,8 @@ sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
 	what she wants
 dem dem der denen -> relative dative pronouns
 aus der tuerkei -> from turkey
-nachdem subject .... verb, verb subject ... (nachdem ich verlassen hatte,war ich traurig)
+nachdem subject .... verb, verb subject ... 
+	(nachdem ich verlassen hatte,war ich traurig)
 Im ernst -> i'm serious.
 vor dem -> in front of (ich bin vor dem zoo)
 im -> in the (gibt es im zoo zebras)n
@@ -56,6 +57,14 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die situation -> situation
+die linie -> line, route
+die herkunft -> origin, die zukunft -> future
+der gegensatz -> conflict
+die angabe -> specification, detail, instruction
+die entfernung -> distance
+das bewusstsein -> consciousness 
+das trinkgeld -> gratuity, tip (wie viel trinkgeld soll ich ihm geben)
 der inhalt -> content (denken sie _an_ die inhalte -> do you think about
 	the contents)
 der verlust -> loss (unser gewinn ist sein verlust)
@@ -243,7 +252,8 @@ januar, februar, maerz, april, mai, juni, juli, august,
 die saison, die jahreszeit -> season
 das jahrhundert -> century; das jahr -> year
 der kalender -> calendar; das datum -> date
-der geburtstag -> birthday (ich habe bald geburtstag -> it's my birthday soon)
+der geburtstag -> birthday 
+	(ich habe bald geburtstag -> it's my birthday soon)
 die umsetzung -> implementation
 die erfahrung -> experience
 die einfuehrung -> introduction
@@ -281,20 +291,26 @@ der bereich -> area
 das ladegeraet -> battery charger
 die tuer -> door (die tueren)
 die umgebung -> environment
-das mittel -> remedy, means (mit allen Mitteln -> by all means (e.g. win by ..))
+das mittel -> remedy, means (mit allen Mitteln -> by all means 
+	(e.g. win by ..))
 das ergebnis -> result
 die ahnung -> idea (die Idee); (keine Ahnung -> no idea)
 der junge -> boy
 der knopf -> button
 der schmuck -> jewelry
 der fleck -> spot (fleckle)
+die art -> type (ich mag _diese art haus_ nicht -> i don't like this
+	type of house) (no of!)
+	(ich mag diese arten _von_ blumen -> i like these kinds of flowers)
+das merkmal -> feature, trait, characteristic
 das fleisch -> meat
 das teil -> part, share
 die einheit -> unity, unit (welche einehit ist das -> which unit is this)
 der austausch -> exchange, replacement, substitution
 der anschluss -> connection, cable
-der abschluss -> conclusion 
-der schluss -> end (ich mach frueher schluss -> i finish my work shift earlier)
+der abschluss -> conclusion, degree (academic)
+der schluss -> end 
+	(ich mach frueher schluss -> i finish my work shift earlier)
 die saison -> season (der winter, der fruehling, der sommer, der herbst)
 der ausflug -> trip, excursion
 das wort -> word (der tod hat das letzte wort)
@@ -339,6 +355,7 @@ der druck -> pressure (ohne druck -> no pressure)
 	(das formular ist im druck -> the form is in print)
 	(druecken -> to push; ausdrucken -> to print)
 	(druck kann gut sein -> pressure can be good)
+der ausdruck -> term, phrase, expression
 der brief -> letter; der briefkasten -> mailbox
 der muskel -> muscle, der daumen -> thumb, das gehirn -> brain, 
 	die stirn -> forehead, der knoechel -> ankle, der knochen -> bone,
@@ -395,6 +412,8 @@ entlang -> along (ich spazierte am wasser entlang)
 unterwegs -> on the way (ich bin unterwegs nach berlin)
 
 ``` connection ```
+im gegensatz zu -> in contrast (im gegensatz zum vater ist der sohn
+	sehr aktiv -> in contrast to his father, the son is very active)
 nun -> well (nun, ich weiss, sie wuerden den besten preis (be)zahlen)
 deswegen, deshalb -> therefore, because of that 
 	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
@@ -437,6 +456,7 @@ noch -> still (wir leben noch -> we are still alive)
 	(ich werde noch fuenf minuten warten -> i'll wait 5 _more_ minutes)
 immer noch -> still (sie isst immer noch -> she is still eating)
 spaetestens -> at the latest (spaetestens nach zwei tagen)
+spaeter -> later (das diskutieren wir spaeter)
 damals -> then
 etwa -> about
 	(um etwa sieben uhr -> around 7 o'clock)
@@ -479,6 +499,8 @@ irgendwer -> somebody
 irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+allerdings, sicherlich -> certainly (das prinzip ist sicherlich nicht neu
+	->the principle s certainly not new)
 mindestens -> at least
 schnell -> quickly (ich wuerde schnell die richtung aendern)
 lieber -> better, soon (you better soon find a job!?)
@@ -519,6 +541,8 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+bewusst -> conscious? (sie ist bei bewusstsein -> she's conscious)
+skeptisch -> skeptical
 vorne -> up front; da vorne -> up there
 groesser -> bigger (das ding ist groesser _als_ die tasse)
 wertvoll -> valuable
@@ -603,7 +627,8 @@ aehnlich -> similar (aehnlich wie damals -> as then)
 hoch -> high; hoch oben -> high up (er ist hoch oben in der firma)
 dort oben -> up there (dort oben ist eine galerie)
 bereit -> ready; bereits -> already (adverb)
-vorbei -> passed (der winter ist vorbei) (das gehr vorbei -> that's passing)
+vorbei -> passed (der winter ist vorbei) 
+	(das gehr vorbei -> that's passing)
 wahr -> true (die wahrheit -> truth); falsch -> false; 
 pretty heavy -> ganz "schoen" schwer (not only ganz) -> ziemlich schwer
 weich -> soft
@@ -633,20 +658,20 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+berechtigen -> to authorize, to entitle
+	(es berechtigt dich zum studium an einer hochschule)
 aendern -> to change
 melden -> to report
 bewegen sich -> to move (da, etwas bewegt sich)
 lehren -> to teach
 mecken x -> to wake up x (kannst du mich um sieben wecken)
 entscheiden sich -> to decide (du sollst dich nicht jetzt entscheiden)
-verlaufen sich -> to get lost (er hat sich im walt verlaufen)
 eintragen sich -> to enroll, to sign in
 entfernen -> to remove x
 ermoeglichen -> to make x possible
 erreichen -> to accomplish
 rundlaufen -> to run smoothly (grossvater und ich werden dafür sorgen, 
 	dass alles rund läuft)
-veroeffentlichen -> to publish (haben veroeffentlicht -> past)
 schwimmen -> to swim (bin geschwommen -> past)
 beitreten -> to join
 auftreten -> to perform?
@@ -674,7 +699,6 @@ ersetzen -> to replace (er ersetzt dich -> he replaces you)
 erlauben -> to allow
 meinen -> to think, to opine (ich weiss was ihr meint) 
 bedeuten -> to indicate, to mean (was bedeutet dieser brief)
-verpassen -> to miss smthng (er verpasst es nicht -> he doesn't miss it)
 fehlen -> to be absent (smthng or someone is absent)
 wohnen -> to live
 zaehlen -> to count (wir zaehlen die sekunden)
@@ -690,6 +714,7 @@ es gibt -> there is, is available
 		available in these sizes)
 waschen -> to wash
 lassen x los -> to let x go (lass uns gehen! -> let us go!)
+	(er laesst uns schwimmen -> he lets us swim) (lass mich allein!)
 teilen -> to share, to divide, to split (ich werde das teil teilen -> 
 	i will split the part)
 machen verantwortlich -> to hold responsible 
@@ -701,25 +726,17 @@ leugnen -> to deny
 lernen -> to learn (haben gelernt -> past)
 kennenlernen -> to get to know, to meet someone
 kennen -> to know x (kennen sie meinen zahnarzt)
-vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
 feststellen -> to find out, to determine
 reagieren -> to react, .. ueber -> overreact
-verlieren -> to lose (ich koennte mein stipendium verlieren -> i could
-	lose my scholarship)
 hassen -> to hate
 schwoeren -> to swear
 laufen -> to walk, to go (haben gelaufen -> past OR bin gelaufen)
 	(ist alles gut gelaufen -> did everything go well)
 	(wir sind bereits gelaufen -> we have already walked)
 stimmen -> to be right, to vote? (das stimmt nicht -> that's not true)
-verabreden sich -> to arrange to meet, to date
-	(ich war mit ihrer mitbewohnerin verabredet -> i was on a date with 
-		her roommate)
 glotzen -> to stare, to gape
 schaut euch ... an -> to look at ... (schau mich an -> look at me)
 einstellen -> to hire (eingestellt -> hired)
-vermasseln -> to screw up, to mess up 
-	(ich versuche, es nicht zu vermasseln -> i'll try to not screw it up)
 freuen -> to be happy (ich freue mich so fuer dich -> i'm so happy for u)
 moegen -> to like (haben gemocht -> past) (accus)
 	(micht hat sie auch nie gemocht -> she never liked me either)
@@ -744,6 +761,8 @@ ausreichen -> to be sufficient (mir reicht es -> i've had enough!)
 schliessen -> to close (schloss -> past)
 weinen -> to cry (weinerlich -> whiny, mushy)
 riechen -> to smell, to sniff
+diskutieren -> to debate, to discuss
+	(du sollst bitte nicht diskutieren, papa -> you should not debate, dad)
 luegen (auf jemanden) -> to lie to someone (die luege -> lie)
 bestellen -> to order (food) (haben bestellt -> past)
 fortfahren -> to continue
@@ -754,6 +773,7 @@ wollte -> wanted to (ich wollte immer normal sein -> i always wanted to
 waere -> would be (das waere gut)
 haetten -> would have (wir haetten die katze behalten -> 
 	we would have kept the cat)
+	(sie haetten mir mehr sagen sollen -> they should've told me more)
 hatten -> had (sie hatten ihre eigene kultur)
 wahlen -> to choose (die auswahl -> selection)
 erwaehnen -> to mention
@@ -789,7 +809,11 @@ fuehren -> to lead
 haben -> to have (accusative) (ich habe einen hund) (gehabt -> past)
 bestehen -> to insist (er besteht auf seinen rechten -> he insists on
 	his rights)
-fordern -> to demand (er fordert einen stuhl)
+	2-> is, consists  (dieser ski besteht aus holz)
+		(sie akzeptiert, dass die krankheiten bestehen -> she accepts that 
+			these diseases exist)
+fordern -> to demand (er fordert einen stuhl) 
+	(wir fordern unser geld zurueck)
 foerdern -> to promote, to encourage
 ergeben -> to yield, to result in, to make 
 	(dass ergibt keinen sinn (der sinn) -> that doesn't make sense)
@@ -816,14 +840,27 @@ stehen -> to stand (die tassen stehen im wasser -> the cups stand in
 	the water); to be located (der tempel steht neben der synagoge)
 sein aufgestanden -> got up (ich bin so frueh aufgestanden -> 	
 	i woke up early)
+linsen -> to peek
 schaffen -> to make, to cope
+verfuegen ueber -> to own (meine eltern verfuegen ueber ein kleines haus)
 verschaffen -> to provide 
 handlen -> to take action, to trade
 verhandeln -> to negotiate
 verfassen, schreiben -> to write
 fassen -> to take, to touch, to grasp
 	(ich fasse es nicht -> i don't believe it)
-linsen -> to peek
+verlaufen sich -> to get lost (er hat sich im walt verlaufen)
+vermitteln -> to communicate (sie vermitteln ihm die nummer)
+veroeffentlichen -> to publish (haben veroeffentlicht -> past)
+verpassen -> to miss smthng (er verpasst es nicht -> he doesn't miss it)
+vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
+verlieren -> to lose (ich koennte mein stipendium verlieren -> i could
+	lose my scholarship)
+verabreden sich -> to arrange to meet, to date
+	(ich war mit ihrer mitbewohnerin verabredet -> i was on a date with 
+		her roommate)
+vermasseln -> to screw up, to mess up 
+	(ich versuche, es nicht zu vermasseln -> i'll try to not screw it up)
 sammeln -> to collect (sie sammelt bernstein)
 versammeln sich -> to gather (er hat uns hier versammelt->he gathered 
 	us here) (people mostly?)
@@ -850,12 +887,12 @@ gucken -> to watch, to see (tv)
 auflegen -> to hang up (aufgelegt -> hung up)
 bereuen -> to regret
 benutzen -> to use (die Nutzung -> the use)
-erkennen -> to recognize
+erkennen -> to recognize (du erkennst die situation)
 wirken -> to work (die medizin wird wirken)
 mieten -> to rent, vermieten -> to rent to somebody else (homeowner)
 bestaetigen -> to confirm
 treffen -> to meet (accus: ich treffe den ...)
-dauern -> to last (die fahr dauert sechs tage...; die kirche dauert lange)
+dauern -> to last (die fahr dauert sechs tage...;die kirche dauert lange)
 darf -> may (darf ich antworten -> may i ask)
 gewinnen -> to win (der gewinn -> profit)
 ausrichten 2-> to tell (ich richte ihm gruesse (regards) aus -> 
@@ -888,7 +925,7 @@ einsehen -> to see, to recognize (appreciate a mistake?)
 fuehlen sich -> to feel (das gefuehl -> feeling)
 	(er fuehlt sich nicht gut)
 ueberweisen -> to transfer (money) (ueberwiesen for past perfect)
-werben -> to advertise, erwerben -> to acquire, die werbung->advertisement
+werben -> to advertise, erwerben -> to acquire,die werbung->advertisement
 	bewerben -> to apply (to a job)
 benoetigen -> to need 
 besitzen -> to own
@@ -979,6 +1016,7 @@ wohin -> (to) where
 
 ============================= preposition ===============================
 hinter -> behind (es steht hinter euch -> it's behind you)
+		(bleiben sie bitte hinter der linie -> please stay behind the line)
 	2-> to the back, nach hinten  (ich gehe hinter)
 	hinten -> in the back (adverb) (is the name of a place)(nach/von .. ok)
 	hinten is a name of a location and as such you can answer the question 
@@ -1028,6 +1066,8 @@ jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
 
 ============================== phrases ==================================
+lesen zwischen den linien -> read between the lines
+was soll das -> what's the point
 in ordnung, schon gut -> alright
 nicht mere und nicht weniger -> no more and no less
 ist ihnen schlecht -> are they sick?
