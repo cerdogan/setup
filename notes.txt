@@ -53,6 +53,13 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+der rock -> skirt
+das haehnchen -> chicken
+der reis -> rice (wir essen gruenen reis)
+die farbe -> color
+die milliarde -> billion (eine milliarde katzen/hunde/pferde!)
+der knoblauch -> garlic
+die faehre -> ferry (faehren sind langsam)
 das flugzeug -> plane
 die suppe -> soup
 der berg -> mountain
@@ -167,9 +174,10 @@ die abstimmung -> vote
 die freude -> pleasure, joy
 der anfang, der start -> beginning
 der baer -> bear
+der knopf -> button (die knoepfe)
 die groesse -> size
 die baumwolle -> cotton
-die moebel -> furniture
+die moebel -> furniture (meine moebel sind aus schweden)
 der saft -> juice (der saft ist zu suess -> the juice is too sweet)
 das hauptgericht -> main dish
 der kaefer -> beetle
@@ -204,7 +212,6 @@ die mitgliedshaft -> membership
 der verfasser, der autor -> author 
 der verbraucher -> customer
 das verfahren -> procedure (fahren -> to drive)
-	die faehre -> ferry
 die verbesserung -> improvement
 der verlauf -> course, progress, process
 der lauf -> course, run (das ist der lauf der geschichte -> that's the 
@@ -321,7 +328,7 @@ das fruehstuck -> breakfast; das abendessen -> dinner
 	fruehstucken vs. der mann isst zu abend -> to have dinner
 das muesli -> cereal
 die speisekarte -> menu
-die bohnen -> beans (food)
+die bohne -> bean (food)
 das getraenk -> beverage, drink (sie macht ein getraenk aus bohnen -> 
 	she prepares a drink from beans)
 der loeffel -> spoon; das messer -> knife; die gabel -> fork
@@ -541,6 +548,7 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+grossartig, toll -> great
 bewusst -> conscious? (sie ist bei bewusstsein -> she's conscious)
 skeptisch -> skeptical
 vorne -> up front; da vorne -> up there
@@ -658,6 +666,8 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+gehen -> to go
+	(das geht aufs haus -> that's on the house)
 berechtigen -> to authorize, to entitle
 	(es berechtigt dich zum studium an einer hochschule)
 aendern -> to change
@@ -730,6 +740,7 @@ feststellen -> to find out, to determine
 reagieren -> to react, .. ueber -> overreact
 hassen -> to hate
 schwoeren -> to swear
+schmecken -> to taste (knoblauch schmeckt grossartig)
 laufen -> to walk, to go (haben gelaufen -> past OR bin gelaufen)
 	(ist alles gut gelaufen -> did everything go well)
 	(wir sind bereits gelaufen -> we have already walked)
@@ -746,7 +757,9 @@ sich lohnen -> to be worth it; wert sein
 suchen nach -> to search for (er suchen nach schutz)
 lassen nach -> to die down (wind: der wind liess nach)
 probieren -> to try, to taste, to try out
-sprechen ueber -> to speak about (sprach -> spoke)
+sprechen ueber -> to speak about someone (personality) (sprach -> spoke) 
+sprechen vom -> to speak about an action (! wir sprechen vom grossvater)
+	https://www.duolingo.com/comment/673182/Wir-sprechen-vom-Gro%C3%9Fvater
 ansprechen -> to speak to sb. (ich spreche ihn erneut an -> i speak with
 	him again)
 geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
@@ -914,7 +927,8 @@ glauben an -> to believe _in_
 steigen -> to climb, to increase, to ascend
 	(steigen sie aus das pferd -> get on the horse)
 	(wir steigen aus dem auto -> we get out of the car)
-bleiben -> to stay (bleib nicht bei ihm -> do not stay with him)
+bleiben -> to stay (bleib nicht bei ihm -> do not stay with him (
+	not "next to him")
 verkaufen -> to sell
 kaufen -> to buy
 spielen -> to play (haben gespielt -> past)
@@ -994,6 +1008,7 @@ deren -> relative genitive pronouns (fm, pl)
 dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
 	animal that I helped) (verb goes to the end!)
 alle -> all (am ende sind alle alleine -> in the end all are alone)
+	(alle haben ein grosses fenster -> everyone has a big window)
 dessen -> relative genitive pronouns (m, n)
 	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
 		in a village the name of which i forgot)
@@ -1019,6 +1034,7 @@ woher -> from where? (woher kommt dein freund -> from where is your
 	friend)
 welche -> which (welches pferd, welchen orangensaft magst du...) 
 	(in welchen _branchen_ arbeiten sie?)
+aus welchem land -> from which country
 warum -> why (because of what) and wieso -> how so
 	weshalb -> for which reason (weshalb benimmst du dich so -> 
 		why do you act this way?)
