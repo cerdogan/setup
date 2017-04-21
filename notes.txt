@@ -18,10 +18,6 @@ als -> than (die schnecker ist langsamer als die katze)
 alles _geht_ langsamer -> everything goes more slowly
 viertel vor sechs -> quarter to six
 _wie_ ist der name deiner lehrerin -> "how" is the name (not what)
-das hemd des mann_es_ -> genitive..
-sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
-	what she wants
-dem dem der denen -> relative dative pronouns
 aus der tuerkei -> from turkey
 nachdem subject .... verb, verb subject ... 
 	(nachdem ich verlassen hatte,war ich traurig)
@@ -57,6 +53,10 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+das flugzeug -> plane
+die suppe -> soup
+der berg -> mountain
+das lied, der song -> song
 die situation -> situation
 die linie -> line, route
 die herkunft -> origin, die zukunft -> future
@@ -276,7 +276,7 @@ die partei -> political party, die party -> fun party
 die haut -> skin
 die nase -> nose
 der tag -> day
-die hose -> pants
+die hose -> pants (die hose hat einen fleck -> the trousers have a stain)
 der koch, der cook -> cook (die koeche -> plural)
 das oel -> oil
 das bad -> bath; das bett -> bed (schlief -> slept)
@@ -975,17 +975,7 @@ ich zeige Ihnen, was im Paket ist -> i show you what's in the package
 es ist zeit das zu lernen -> it's time to learn that
 
 =============================== pronoun =================================
-jene -> those (search for it in this doc)
 beide -> both
-dessen -> relative genitive pronouns (m, n)
-	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
-		in a village the name of which i forgot)
-	(das ist der mann, dessen frau lehrerin ist -> that's the man, whose
-		wife is a teacher)
-deren -> relative genitive pronouns (fm, pl)
-dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
-	animal that I helped) (verb goes to the end!)
-alle -> all (am ende sind alle alleine -> in the end all are alone)
 nichts -> nothing (nichts ist selbstverstaendlich)
 niemand, keiner -> nobody
 keinerlei -> no ... at all (er hat keinerlei freunde -> he has no 
@@ -993,6 +983,28 @@ keinerlei -> no ... at all (er hat keinerlei freunde -> he has no
 kein -> no
 	(ich habe heute kein wasser getrunken -> i didn't drink water today)
 	(er will _kein weiteres_ brot -> he doesn't want _any more_ bread)
+
+``` relative```
+das hemd des mann_es_ -> genitive..
+sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
+	what she wants
+dem dem der denen (pl) -> relative dative pronouns
+ich habe ein auto, das rot ist -> i have a car that is red
+deren -> relative genitive pronouns (fm, pl)
+dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
+	animal that I helped) (verb goes to the end!)
+alle -> all (am ende sind alle alleine -> in the end all are alone)
+dessen -> relative genitive pronouns (m, n)
+	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
+		in a village the name of which i forgot)
+	(das ist der mann, dessen frau lehrerin ist -> that's the man, whose
+		wife is a teacher)
+ich bin jemand, den Hunde mögen vs. Ich bin jemand, der Hunde mag ->
+	i am someone that dogs like vs. i am someone who likes dogs
+	
+
+``` demonstrative ```
+jene -> those (search for it in this doc)
 
 ``` question ```
 womit -> with what (womit bezahlen sie -> with what do you pay)
@@ -1039,6 +1051,8 @@ ausser -> except (er isst nichts ausser obst ->he eats nothing but fruit)
 
 =============================== articles ================================
 ich gebe ihrem hund einen apfel -> i give an apple to her dog
+Ich gebe einer Frau einen Hut -> i give a woman a hat
+	(geben receipient becomes dative)
 wir geben das buch einem mann -> we give the book to a man
 sie spricht mit den schweden -> she speaks with the sweeds (pl., dative)
 sie kennt den schweden -> she knows the sweed (m, accus.)
