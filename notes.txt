@@ -53,6 +53,14 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die angst -> fear, anxiety (hast du angst _vor_ gewitter)
+der sturm -> storm, assault, attack
+das gewitter -> thunderstorm, storm
+der donner -> thunder
+der regenschirm -> umbrella
+der blitz -> lightning
+der regenbogen -> rainbow
+die wolke -> cloud
 der rock -> skirt
 das haehnchen -> chicken
 der reis -> rice (wir essen gruenen reis)
@@ -173,7 +181,7 @@ die wahl -> choice, election
 die abstimmung -> vote
 die freude -> pleasure, joy
 der anfang, der start -> beginning
-der baer -> bear
+der baer -> bear; der eisbaer -> polar bear
 der knopf -> button (die knoepfe)
 die groesse -> size
 die baumwolle -> cotton
@@ -201,7 +209,9 @@ das verhalten -> behavior (sich verhalten -> to behave)
 der priester -> priest
 die wiedergeburt -> reincarnation (glaubst du _an_ wiedergeburt?)
 der loewe -> lion; der elefant, der hamster, das eichhoernchen (squirrel)
-	die gans -> goose (not ganz!); die eule -> owl; die biene -> bee
+	die gans -> goose (not ganz!); die eule -> owl; die biene -> bee;
+	die schildkroete -> turtle; 
+der zoo -> zoo
 der durst -> thirst
 die trommel -> drum
 das orchester -> orchestra; der dirigent -> conductor
@@ -241,9 +251,8 @@ die tante -> aunt; den onkel -> uncle
 der unfall -> accident; der notfall -> emergency; das opfer -> victim
 die not -> need, distress (der arzt sieht seine not -> the doctor sees 
 	his distress)
-der regenbogen -> rainbow
 das handy, das mobile -> cellphone
-das handtuch -> towel
+das handtuch -> towel (mein handtuch ist nass)
 die dusche -> shower; das shampoo -> shampoo
 die tasche -> bag, der tisch -> table, der teller -> plate, 
 	die tasse -> cup
@@ -446,7 +455,7 @@ inzwischen -> in the mean time, meanwhile
 	der hund ist inzwischen so was von tot ->? the dog is so dead right now
 eben -> just (die frau von eben ->the woman from just now (who just left)
 neulich -> recently
-sofort -> right away, immediately
+sofort -> right away, immediately (sofort wenden -> turn immediately!)
 zuerst -> first; zuletzt -> last
 nachts -> at nights
 zuvor -> before (die gruppe war zuvor unbekannt)
@@ -666,6 +675,7 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+regnen -> to rain (es regnet)
 gehen -> to go
 	(das geht aufs haus -> that's on the house)
 berechtigen -> to authorize, to entitle
@@ -731,7 +741,7 @@ machen verantwortlich -> to hold responsible
 	(er macht die krankheiten verantwortlich)
 heissen -> to be called, to mean smthng
 anfangen -> to start (es fing vor ein paar wochen an -> it started a few
-	weeks ago) (angefangen -> started)
+	weeks ago) (angefangen -> started) (wann fange ich an)
 leugnen -> to deny
 lernen -> to learn (haben gelernt -> past)
 kennenlernen -> to get to know, to meet someone
@@ -754,6 +764,7 @@ moegen -> to like (haben gemocht -> past) (accus)
 gehen -> to go (bin gegangen -> past)
 ausgehen -> to go out, to date(gehst du manchmal mit suessen idioten aus)
 sich lohnen -> to be worth it; wert sein 
+	(es lohnt sich, das buch zu lesen -> the book is worth reading)
 suchen nach -> to search for (er suchen nach schutz)
 lassen nach -> to die down (wind: der wind liess nach)
 probieren -> to try, to taste, to try out
@@ -1108,8 +1119,12 @@ es hat mir _sehr gut_ gefallen -> i liked it very much (accusative)
 ein weiterer monat und ich bin frei wie der wind.
 löcher in die luft gucken/starren -> to stare into space
 im begriff zu x -> about to x (sie ist im begriff zu gehen)
+aussehen als ob -> looks like (sieht aus, als ob wir wenden -> looks like
+	we are turning around)
 
 =========================== complex grammar =============================
+er hoert auf, zeitungen zu lesen -> he stops reading newspapers
+ich will, dass du schlaefst -> i want you to sleep
 gib es unserem vater -> give it to our father (imperative + dative)
 ich habe ihn schwimmen sehen (not gesehen) -> i've seen him swim
 	http://www.canoo.net/services/OnlineGrammar/Wort/Verb/Finit-Infinit/Part2.html?lang=en#Anchor-Ersatzinfinitiv-35882
