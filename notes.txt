@@ -51,6 +51,11 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+der fahrer -> driver
+der einkaufswagen -> shopping cart
+das einkaufszentrum -> shopping center
+die kasse -> checkout
+der gutschein -> voucher, coupon
 die veranstaltung -> event, organization
 die umfrage -> opinion poll, survey
 der hinweis -> hint, reference, clue (sie geht mit diesem hinweis zur 
@@ -199,6 +204,8 @@ die moebel -> furniture (meine moebel sind aus schweden)
 der saft -> juice (der saft ist zu suess -> the juice is too sweet)
 das hauptgericht -> main dish
 der kaefer -> beetle
+der baecker -> baker
+die schwester -> sister
 die beziehung, der verhaeltnis -> relationship (die beziehung nimmt ihren 
 	lauf -> the relationship is taking its course)
 	(der richter hat keine beziehung _zu_ seiner schwester -> the judge has
@@ -356,6 +363,7 @@ die rechnung -> bill, account
 die sammlung -> collection, gathering
 der platz -> place
 der kampf -> fight, struggle
+das publikum -> audience
 der nachtisch -> dessert; der kuchen -> cake
 der tisch -> table (wir stellen die teller auf den tisch)
 der himmel -> sky
@@ -399,6 +407,8 @@ der haendler -> merchant, der einzalhandel -> retail
 die versicherung -> insurance (sichern -> to secure, to back up)
 der artikel -> article
 das wetter -> weather
+die bushaltestelle -> bus stop (ich gehe _zur_ bushaltestelle)
+der verkehr -> traffic
 der laden -> store
 der unterricht -> lesson
 die stimmung -> mood, vibe (warum ist hier so eine schlecte stimmung)
@@ -529,6 +539,7 @@ irgendwer -> somebody
 irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+normalerweise -> normally
 allerdings, sicherlich -> certainly (das prinzip ist sicherlich nicht neu
 	->the principle s certainly not new)
 mindestens -> at least
@@ -571,6 +582,7 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+bunt -> colorful
 genau -> exact, precise
 grossartig, toll -> great
 bewusst -> conscious? (sie ist bei bewusstsein -> she's conscious)
@@ -983,7 +995,7 @@ ueberweisen -> to transfer (money) (ueberwiesen for past perfect)
 werben -> to advertise, erwerben -> to acquire,die werbung->advertisement
 	bewerben -> to apply (to a job)
 benoetigen -> to need 
-besitzen -> to own
+besitzen -> to own (sie besitzt drei laeden -> she owns three shops)
 erhalten -> to receive
 behalten -> to keep (wir wuerden _ihn_ behalten)
 bewegen -> to move (wir bewegen das auto)
