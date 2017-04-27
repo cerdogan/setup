@@ -24,8 +24,6 @@ nachdem subject .... verb, verb subject ...
 Im ernst -> i'm serious.
 vor dem -> in front of (ich bin vor dem zoo)
 im -> in the (gibt es im zoo zebras)n
-wuerde (would - ich wuerde gehen) vs. wurde (passive - 
-	ich wurde gefahren: i was driven)
 alles (pronoun) -> everything, alle (pronoun) -> all 
 	(dies alles ist vergangenheit -> this is all past)
 wir fordern _unser_ geld zurueck.
@@ -53,6 +51,17 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die veranstaltung -> event, organization
+die umfrage -> opinion poll, survey
+der hinweis -> hint, reference, clue (sie geht mit diesem hinweis zur 
+	polizei -> she goes to the police with this hint)
+die polizei -> police
+das Polen -> Poland
+die steuer -> tax, duty
+die nutzung -> use 
+die entscheidung -> decision
+die stimme -> voice, vote
+die bedingung -> condition, term
 die angst -> fear, anxiety (hast du angst _vor_ gewitter)
 der sturm -> storm, assault, attack
 das gewitter -> thunderstorm, storm
@@ -120,6 +129,7 @@ der bernstein -> amber
 der bus -> bus (die busse -> plural)
 das salz -> salt
 der satz -> sentence
+der sitz -> seat
 die jugend -> youth
 das handwerk -> craft
 der kaese -> cheese
@@ -322,6 +332,7 @@ das merkmal -> feature, trait, characteristic
 das fleisch -> meat
 das teil -> part, share
 die einheit -> unity, unit (welche einehit ist das -> which unit is this)
+der zusammenhang -> connection, context
 der austausch -> exchange, replacement, substitution
 der anschluss -> connection, cable
 der abschluss -> conclusion, degree (academic)
@@ -398,6 +409,8 @@ der quatsch -> nonsense
 das risiko -> risk 
 der schutz -> cover
 die uebersicht -> summary
+die sicht -> view
+die anregung, der vorschlag -> suggestion
 der eintrag -> entry
 der eintritt -> entry, entrance, admission
 der eingang -> input, entry, beginning
@@ -471,6 +484,7 @@ noch -> still (wir leben noch -> we are still alive)
 	(noch keine antworten -> no answers yet)
 	(ich werde noch fuenf minuten warten -> i'll wait 5 _more_ minutes)
 immer noch -> still (sie isst immer noch -> she is still eating)
+noch nicht -> not yet (die richterin kennt die bedingungen noch nicht)
 spaetestens -> at the latest (spaetestens nach zwei tagen)
 spaeter -> later (das diskutieren wir spaeter)
 damals -> then
@@ -557,6 +571,7 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+genau -> exact, precise
 grossartig, toll -> great
 bewusst -> conscious? (sie ist bei bewusstsein -> she's conscious)
 skeptisch -> skeptical
@@ -675,6 +690,10 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+vorschlagen -> to suggest
+erfuellen -> to fulfill, to satisfy (sie haben die bedingungen nicht
+	erfuellt -> you didn't satisfy the conditions)
+bevorzugen -> to prefer, to favor (mitglieder werden bevorzugt)
 regnen -> to rain (es regnet)
 gehen -> to go
 	(das geht aufs haus -> that's on the house)
@@ -686,6 +705,7 @@ bewegen sich -> to move (da, etwas bewegt sich)
 lehren -> to teach
 mecken x -> to wake up x (kannst du mich um sieben wecken)
 entscheiden sich -> to decide (du sollst dich nicht jetzt entscheiden)
+	(treffen / faellen eine entscheiden -> make a decision)
 eintragen sich -> to enroll, to sign in
 entfernen -> to remove x
 ermoeglichen -> to make x possible
@@ -704,6 +724,7 @@ helfen -> to help (dative) (du musst ihn helfen -> you have to help him)
 lachen -> to laugh
 traumen -> to dream (meine katze trauemt) (wir traumen _von_ einer ente)
 lieben -> to love (accus) (sie wird _ihn_/_dich_ fuer immer lieben)
+ankommen auf -> to depend (das kommt auf den zusammenhang an)
 ankommen -> to arrive (er kommt spaetestens am montag an)
 kommen -> to come (du _bist_ gekommen -> you came)
 besuchen -> to visit (haben gesucht -> past)
@@ -711,6 +732,8 @@ holen sich -> to get, to fetch (wir holen uns pizza)
 liegen -> to lie (er liegt auf dem tisch -> he lies on the table)
 stehlen -> to steal (warum stiehlt er -> why does he steal) 
 	(haben gestohlen -> past)
+einsetzen sich fuer -> to promote (die prinzessin setzt sich fuer 
+	die freiheit ein -> the princess is advocating freedom)
 setzen sich -> to sit down (setzen wir uns -> let's sit down)
 	(er hat sich auf _den_ stuhl gesetzt -> he sat down on the chair)
 ersetzen -> to replace (er ersetzt dich -> he replaces you)
@@ -777,6 +800,7 @@ geteilen durch -> to be divided by (12 geteilt durch 4 gleich 3)
 nehmen -> to take (nimm es nicht persoenlich -> don't take it personally)
 zunehmen -> to increase (der handel nimmt zu)
 merken -> to notice (das werden sie bald merken)
+geboren werden -> to be born (die kuh wird geboren -> the cow was born)
 anrufen, telefonieren -> to call (teleph) (acc) (sie werden uns anrufen)
 gelten -> to be valid, to count, to apply (gueltig) 
 	(die wette gielt -> the bet is on)
@@ -792,13 +816,16 @@ bestellen -> to order (food) (haben bestellt -> past)
 fortfahren -> to continue
 soll -> should 
 werden -> will (ihr werdet -> you will)
+wurde -> passive past (not wuerde) (ich wurde gefahren -> i was driven)
+	(meine tasche wurde gestohlen)
 wollte -> wanted to (ich wollte immer normal sein -> i always wanted to 
 	be normal)
 waere -> would be (das waere gut)
 haetten -> would have (wir haetten die katze behalten -> 
 	we would have kept the cat)
 	(sie haetten mir mehr sagen sollen -> they should've told me more)
-hatten -> had (sie hatten ihre eigene kultur)
+hatten -> had (sie hatten ihre eigene kultur) 
+	(sie hatten einen _jungen_ -> they had a boy)
 wahlen -> to choose (die auswahl -> selection)
 erwaehnen -> to mention
 beruhigen -> to calm down (beruhige dich -> calm down!)
@@ -871,6 +898,8 @@ verschaffen -> to provide
 handlen -> to take action, to trade
 verhandeln -> to negotiate
 verfassen, schreiben -> to write
+	(er hat der bundesregierung geschrieben -> he wrote _to_ the federal 
+		government)
 fassen -> to take, to touch, to grasp
 	(ich fasse es nicht -> i don't believe it)
 verlaufen sich -> to get lost (er hat sich im walt verlaufen)
@@ -911,6 +940,7 @@ gucken -> to watch, to see (tv)
 auflegen -> to hang up (aufgelegt -> hung up)
 bereuen -> to regret
 benutzen -> to use (die Nutzung -> the use)
+	(wird diese chance genutzt -> is this chance used)
 erkennen -> to recognize (du erkennst die situation)
 wirken -> to work (die medizin wird wirken)
 mieten -> to rent, vermieten -> to rent to somebody else (homeowner)
@@ -983,6 +1013,9 @@ lass, geh, sei, ruf, belibt, lies (lest), iss, nimm, trink,
 hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
+wie -> like (es wird wie eine suppe gegessen ->it gets eaten like a soup)
+	(Ich bin so groß wie du)
+als -> as, then (ich bin grosser als du) (comparison quatity/lity etc.)
 statt -> instead of (sie macht lieber alles selbst, statt einen 
 	Handwerker zu bezahlen -> she prefers to do everything herself 
 	instead of paying for a craftsman)
@@ -1057,7 +1090,8 @@ wohin -> (to) where
 hinter -> behind (es steht hinter euch -> it's behind you)
 		(bleiben sie bitte hinter der linie -> please stay behind the line)
 	2-> to the back, nach hinten  (ich gehe hinter)
-	hinten -> in the back (adverb) (is the name of a place)(nach/von .. ok)
+	3-> to be after (die polizei ist hinter mir -> the police are after me)
+hinten -> in the back (adverb) (is the name of a place)(nach/von .. ok)
 	hinten is a name of a location and as such you can answer the question 
 		Where? by simply saying hinten, given that the context is known.
 	Hinter is a preposition and it puts things or persons in a relation to 
