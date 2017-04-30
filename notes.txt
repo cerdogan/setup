@@ -51,6 +51,19 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die wirkung -> effect (die wirkung von der tablette ->effect of the pill)
+der schmerz -> pain (ich spuere den schmerz hier vorne und an der seite
+	(showing her forehead (stirn))
+die tastatur -> keyboard
+der unterschied -> difference 
+die recherche -> research, investigation
+	(Die Recherche des Detektivs enthüllte die Wahrheit -> The detective's
+		investigation uncovered the truth)
+die muehe -> trouble, effort
+	(Aber niemand habe sich so recht die Muehe gemacht, ueber die 
+		Konzepte ernsthaft nachzudenken -> But nobody had really made the 
+		effort to seriously study the different concepts)
+das beispiel -> example
 der fahrer -> driver
 der einkaufswagen -> shopping cart
 das einkaufszentrum -> shopping center
@@ -457,6 +470,7 @@ nun -> well (nun, ich weiss, sie wuerden den besten preis (be)zahlen)
 deswegen, deshalb -> therefore, because of that 
 	(deswegen ist lily nicht eifersuechtig->that's why lily is not jealous)
 wegen -> because of (nicht wegen mir -> not because of me)
+ansonsten -> otherwise, apart from that
 sonst -> otherwise
 	(ich kenne _sonst niemanden_, der dieses album hat -> i've met _no one
 		else_ who has this album)
@@ -471,6 +485,7 @@ so lange -> as long as (wir behalten sie, so lange wir koennen ->
 doch -> but (dies kannst du _doch_ nicht tun -> but you can't do this)
 
 ``` time ```
+innerhalb _ -> within _ (innerhalb von zwei tagen -> within 2 days)
 nie -> never
 gerade -> right now
 zwistchen -> between (zwischen vergangenheit und zukunft)
@@ -539,6 +554,8 @@ irgendwer -> somebody
 irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+wohl -> well (ich fuehle mich nicht wohl -> i feel well)
+ernsthaft -> seriously
 normalerweise -> normally
 allerdings, sicherlich -> certainly (das prinzip ist sicherlich nicht neu
 	->the principle s certainly not new)
@@ -590,9 +607,11 @@ skeptisch -> skeptical
 vorne -> up front; da vorne -> up there
 groesser -> bigger (das ding ist groesser _als_ die tasse)
 wertvoll -> valuable
-einsam -> lonely
-seltsam -> strange
+einsam -> lonely (ich fuehle mich einsam, ganz alleine)
 allgemein -> general (das ist zu allgemein -> that is too general)
+fremd -> foreign, strange (sie hat viele fremde laender bereist -> 
+	she visited many foreign countries)
+seltsam -> strange
 komisch -> strange
 passend -> suitable, matching (meine passende hose -> my matching pants)
 ehemalig -> former 
@@ -702,6 +721,35 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+spueren -> to sense
+	(ich spuere die sonne auf meiner haut -> i sense the sun on my skin)
+	(ich spuere den wind in meinen haaren -> i feel the wind in my hair)
+riechen -> to smell, to sniff
+tasten -> to key (keyboard?), to grope, to feel
+reisen -> to travel
+enthuellen -> to reveal
+recherchieren -> to research
+arbeiten -> to work
+	abarbeiten -> to work through a list
+		(Die Türkei muss eine lange Liste abarbeiten, was nicht gerade 
+			unproblematisch ist -> Turkey is faced with having to deliver a 
+			long list of results)
+	ausarbeiten -> to plan, to prepare, to draw up (a creative side)
+		(Wir werden einen Entwurf ausarbeiten und dann Details besprechen ->
+			We will draw up a draft and then discuss details)
+	einarbeiten -> to incorporate (to work into 1) 
+		(konkrete Ziele in ihre Pläne einarbeiten -> incorporate concrete
+			targets into their plans)
+	sich einarbeiten -> to familiarize, to learn the ropes
+ 		(man sich immer wieder in neue Wissensgebiete einarbeiten muss ->
+			you continually have to familiarise yourself with new areas of 
+				expertise)
+	sich erarbeiten -> to work (hard?)
+		(Die Sängerin hat sich ihren Erfolg hart erarbeitet -> The singer 
+			worked hard for her success)
+	bearbeiten -> to edit (Ich möchte ein Foto bearbeiten)
+		2-> to process (alle antraege werden innerhalb von zwei tagen
+			bearbeitet -> all applications will be processed within 2 days)
 vorschlagen -> to suggest
 erfuellen -> to fulfill, to satisfy (sie haben die bedingungen nicht
 	erfuellt -> you didn't satisfy the conditions)
@@ -776,7 +824,7 @@ machen verantwortlich -> to hold responsible
 	(er macht die krankheiten verantwortlich)
 heissen -> to be called, to mean smthng
 anfangen -> to start (es fing vor ein paar wochen an -> it started a few
-	weeks ago) (angefangen -> started) (wann fange ich an)
+	weeks ago) (angefangen -> started) (wann fange ich an) (fangen wir an!)
 leugnen -> to deny
 lernen -> to learn (haben gelernt -> past)
 kennenlernen -> to get to know, to meet someone
@@ -820,7 +868,6 @@ schaden -> to damage, (der schaden -> the damage, die schaeden)
 ausreichen -> to be sufficient (mir reicht es -> i've had enough!)
 schliessen -> to close (schloss -> past)
 weinen -> to cry (weinerlich -> whiny, mushy)
-riechen -> to smell, to sniff
 diskutieren -> to debate, to discuss
 	(du sollst bitte nicht diskutieren, papa -> you should not debate, dad)
 luegen (auf jemanden) -> to lie to someone (die luege -> lie)
@@ -989,8 +1036,11 @@ einkaufen -> to go shopping
 ansehen mir -> to watch (ich sehe mir die wellen auf dem meer an) 
 sehen -> to see (haben gesehen -> past)
 einsehen -> to see, to recognize (appreciate a mistake?)
+fuehlen -> to have a feeling
+	(ich fuehle wir sind auf dem richtigen weg)
 fuehlen sich -> to feel (das gefuehl -> feeling)
-	(er fuehlt sich nicht gut)
+	(er fuehlt sich nicht gut) 
+	(ich fuehle mich verantwotlich fuer etwas -> I feel responsible for sm)
 ueberweisen -> to transfer (money) (ueberwiesen for past perfect)
 werben -> to advertise, erwerben -> to acquire,die werbung->advertisement
 	bewerben -> to apply (to a job)
@@ -1153,6 +1203,7 @@ jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
 
 ============================== phrases ==================================
+Danke im voraus -> thanks in advance
 lesen zwischen den linien -> read between the lines
 was soll das -> what's the point
 in ordnung, schon gut -> alright
