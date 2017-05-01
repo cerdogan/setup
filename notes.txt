@@ -51,6 +51,28 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+das mal -> time (das letzte mal -> the last time)
+die verpflichtung -> obligation, engagement
+die pflicht -> duty
+die eroeffnung -> opening
+die vorstellung -> vision, notion, perception, image, show
+	(das ist nicht meine vorstellung von ihm->that's not my notion of him)
+	(die seminare basieren auf seiner vorstellung -> the seminars are
+		based on his vision)
+	(das ist meine letzte vorstellung -> that's my last show)
+die bewegung -> move, motion (der vogel ist oft in bewegung)
+die zuschauer -> audience
+der spieler -> player
+der ski, der schi -> ski
+die seite -> side (ich laufe an ihrer seite -> i walk by her side); page
+die genehmigung -> permission, permit, approval
+	(zum parken brauche ich eine spezielle parkgenehmigung)
+die behoerde -> authority
+die absage -> cancellation, refusal
+die zulassung -> authorization, admission
+die bewerbung -> application
+der jaeger -> hunter (ein jagdhund hilft dem jaeger die beute zu finden)
+die beute -> prey
 die wirkung -> effect (die wirkung von der tablette ->effect of the pill)
 der schmerz -> pain (ich spuere den schmerz hier vorne und an der seite
 	(showing her forehead (stirn))
@@ -110,6 +132,7 @@ das trinkgeld -> gratuity, tip (wie viel trinkgeld soll ich ihm geben)
 der inhalt -> content (denken sie _an_ die inhalte -> do you think about
 	the contents)
 der verlust -> loss (unser gewinn ist sein verlust)
+der vortrag -> lecture, performance (tragen -> to carry, to sustain)
 das studio -> studio
 die mode -> fashion (aus der mode -> out of fashion)
 die kritik -> review
@@ -207,7 +230,7 @@ das Oesterreich -> Austria; das Italien -> Italy;
 die vorwahl -> area code, prefix
 die wahl -> choice, election
 die abstimmung -> vote
-die freude -> pleasure, joy
+die freude -> pleasure, joy (ich empfinde grosse freude)
 der anfang, der start -> beginning
 der baer -> bear; der eisbaer -> polar bear
 der knopf -> button (die knoepfe)
@@ -337,6 +360,10 @@ der bereich -> area
 das ladegeraet -> battery charger
 die tuer -> door (die tueren)
 die umgebung -> environment
+der umgang -> handling, interaction
+	(der umgang mit elefanten ist nicht einfach)
+das ereignis -> event, incident (die reignisse der tage -> the events
+	of the days)
 das mittel -> remedy, means (mit allen Mitteln -> by all means 
 	(e.g. win by ..))
 das ergebnis -> result
@@ -390,7 +417,7 @@ die mitternacht -> midnight
 der augenblick -> moment
 das bild -> picture
 die hochschule, die universitaet -> university, college
-der anhang -> attachment
+der anhang -> attachment (sie laedt den anhang herunter)
 der punkt -> point (komm zu punkt -> get to the point)
 der beruf -> job, occupation (rufen, calling)
 der anwalt, der rechtsanwalt -> attorney, lawyer; der richter -> judge
@@ -448,6 +475,7 @@ das tier -> animal
 ============================== adverbs ==================================
 
 ``` location ```
+seite an seite -> side by side
 weit -> far (er geht weit weg -> he goes far away)
 hinaus -> out (er geht hinaus in die welt -> he goes out into the world)
 voraus -> ahead of (sie ist _ihm_ voraus -> she's ahead of him)
@@ -535,8 +563,10 @@ einmal -> once (wir versuchen alles einmal)
 
 ``` possibility ```
 tatsaechlich -> actually, really, indeed
+eigentlich -> actually, really
 wirklich -> really
 wahrscheinlich -> probably, presumably
+	(welches team wird wahrscheinlich gewinnen)
 ueberhaupt -> at all (das ist ueberhaupt nicht gut)
 jedenfalls -> certainly (in all cases)
 jedenfalls 2->? anyway
@@ -554,6 +584,7 @@ irgendwer -> somebody
 irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+zurueck -> back (die zuschauer kamen zurueck -> the audience came back)
 wohl -> well (ich fuehle mich nicht wohl -> i feel well)
 ernsthaft -> seriously
 normalerweise -> normally
@@ -577,6 +608,8 @@ annaehernd -> approximately, almost
 eher -> rather (das haus ist eher klein -> that house is rather small)
 fast -> almost, nearly (wieso sind das fast nur typen -> 
 	why are these mostly only dudes) (das quartal ist fast zu ende)
+	(er hoert fast alle kommentare -> he hears almost all the comments)
+nahezu -> almost, nearly, virtually
 kaum -> barely (er arbeitet kaum -> he barely works)
 	(ich kann es kaum erwarten -> i can barely wait)
 noch ein -> another (er braucht noch eine batterie)
@@ -599,6 +632,14 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+mehrere -> several
+unabhaengig -> independent
+verboten -> forbidden
+froehlich -> cheerful
+entspannt -> relaxed, laid-back
+frech -> naughty
+beleidigend -> offensive
+unhoeflich -> rude, impolite
 bunt -> colorful
 genau -> exact, precise
 grossartig, toll -> great
@@ -721,6 +762,29 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+verletzen -> to injure 
+existieren -> to exist
+entstehen -> to arise, to form, to develop
+	(jetzt erstehen probleme -> now problems arise)
+	(neues blut entsteht im koerper -> new blood forms in the body)
+vergeben -> to forgive (dative) (ich vergebe meiner mutter)
+genuegen -> to suffice, to satisfy
+wissen -> to know (wisst ihr _von_ den ereignissen -> do you know
+	about the incidents)
+buchen -> to book
+schenken -> to gift
+schicken -> to send (h. geschickt) (er hat ihr etwas geschickt)
+schildern -> to describe, to portray, to depict
+gestatten -> to allow (formal than erlauben)
+	(gestatten sie dass ich sie unterbrechen)
+	(oft steht im beschrieben essen und trinken ist nicht gestattet)
+unterbrechen -> to interrupt
+vorbereiten -> to prepare
+einladen -> to invite (ich dich zum essen einlade)
+empfinden -> to feel 
+	(ich empfinde nichts fuer dich -> i feel nothing for you)
+	2-> to perceive (das empfinde ich _als_ sehr beleidigend -> i
+		find it very offensive)
 spueren -> to sense
 	(ich spuere die sonne auf meiner haut -> i sense the sun on my skin)
 	(ich spuere den wind in meinen haaren -> i feel the wind in my hair)
@@ -760,7 +824,8 @@ gehen -> to go
 berechtigen -> to authorize, to entitle
 	(es berechtigt dich zum studium an einer hochschule)
 aendern -> to change
-melden -> to report
+melden -> to report, to notify
+	(du hast dich nicht gemeldet -> you didn't call)
 bewegen sich -> to move (da, etwas bewegt sich)
 lehren -> to teach
 mecken x -> to wake up x (kannst du mich um sieben wecken)
@@ -800,6 +865,7 @@ ersetzen -> to replace (er ersetzt dich -> he replaces you)
 	(sie ist nicht _zu_ ersetzen -> she is not to be replaced)
 	(er ersetzt bald das fenster -> he replaces the window soon)
 erlauben -> to allow
+	(meine mutter erlaubt _mir_ nicht Eis vor dem essen zu essen)
 meinen -> to think, to opine (ich weiss was ihr meint) 
 bedeuten -> to indicate, to mean (was bedeutet dieser brief)
 fehlen -> to be absent (smthng or someone is absent)
@@ -816,6 +882,9 @@ es gibt -> there is, is available
 	(das kleid gibt es nur in diesen groessen -> the dress is only 
 		available in these sizes)
 waschen -> to wash
+zulassen -> to allow
+	(ich lasse es nicht zu, dass meinem ind etwas schlechtes passiert)
+	2-> to be accepted (man wird an der uni zugelassen)
 lassen x los -> to let x go (lass uns gehen! -> let us go!)
 	(er laesst uns schwimmen -> he lets us swim) (lass mich allein!)
 teilen -> to share, to divide, to split (ich werde das teil teilen -> 
@@ -963,6 +1032,7 @@ fassen -> to take, to touch, to grasp
 	(ich fasse es nicht -> i don't believe it)
 verlaufen sich -> to get lost (er hat sich im walt verlaufen)
 vermitteln -> to communicate (sie vermitteln ihm die nummer)
+	2-> to put in touch (kannst du mich an eine firma vermitteln)
 veroeffentlichen -> to publish (haben veroeffentlicht -> past)
 verpassen -> to miss smthng (er verpasst es nicht -> he doesn't miss it)
 vermissen -> to miss (ich vermisse ihn so sehr -> i miss him so much)
@@ -977,7 +1047,9 @@ sammeln -> to collect (sie sammelt bernstein)
 versammeln sich -> to gather (er hat uns hier versammelt->he gathered 
 	us here) (people mostly?)
 verlieren -> to lose (er verlor seine haare)
-verlassen -> to leave (verlassen ihn, not ihm)
+verlassen -> to leave (verlassen ihn, not ihm) 
+	(ich verlasse fuer ein paar tage die stadt -> i'm leaving town for a
+		couple days)
 vermeiden -> to avoid (ich wuerde ihn vermeiden)
 verhindern -> to prevent
 verdienen -> to earn, dienen -> to server
@@ -1082,6 +1154,7 @@ statt -> instead of (sie macht lieber alles selbst, statt einen
 	Handwerker zu bezahlen -> she prefers to do everything herself 
 	instead of paying for a craftsman)
 dann -> then (dann wuerden sie dafuer zahlen)
+	(wenn nicht, dann installieren sie es -> if not, then install it)
 seit -> since (Seit er seine Abschlussprüfung gemacht hat, ist er 
 	arbeitslos)
 seitdem -> ever since? (seitdem ich sie kenne, ist sie verheiratet)
@@ -1110,12 +1183,13 @@ sie ist eine frau, _die_ weiss, was sie will -> she's a woman who knows
 	what she wants
 dem dem der denen (pl) -> relative dative pronouns
 ich habe ein auto, das rot ist -> i have a car that is red
-deren -> relative genitive pronouns (fm, pl)
 dem -> that (das ist das tier, _dem_ ich geholfen habe -> that's the 
 	animal that I helped) (verb goes to the end!)
 alle -> all (am ende sind alle alleine -> in the end all are alone)
 	(alle haben ein grosses fenster -> everyone has a big window)
-dessen -> relative genitive pronouns (m, n)
+deren -> whose, relative genitive pronouns (fm, pl)
+	(das sind kinder, deren eltern reich sind)
+dessen -> whose, of which, relative genitive pronouns (m, n)
 	(er wohnt in einem dorf, dessen namen ich vergessen habe -> he lives
 		in a village the name of which i forgot)
 	(das ist der mann, dessen frau lehrerin ist -> that's the man, whose
@@ -1220,6 +1294,8 @@ aussehen als ob -> looks like (sieht aus, als ob wir wenden -> looks like
 	we are turning around)
 
 =========================== complex grammar =============================
+sie sollen so tun, als wuerde euch/Ihnen die Fabrik gehoeren ->
+	they should pretend that the factory belongs to you.
 er hoert auf, zeitungen zu lesen -> he stops reading newspapers
 ich will, dass du schlaefst -> i want you to sleep
 gib es unserem vater -> give it to our father (imperative + dative)
