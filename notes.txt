@@ -51,6 +51,14 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+die trauben -> grapes
+das erlebnis -> experience (special), adventure
+	(das konzert war ein tolles erlebnis, das werde ich nie vergessen)
+	(can be negative too, zum beispiel: autounfall)
+die taetigkeit -> activity, work, occupation
+die kenntnis -> knowledge
+die schere -> scissors
+das geschenk -> gift
 das mal -> time (das letzte mal -> the last time)
 die verpflichtung -> obligation, engagement
 die pflicht -> duty
@@ -133,6 +141,7 @@ der inhalt -> content (denken sie _an_ die inhalte -> do you think about
 	the contents)
 der verlust -> loss (unser gewinn ist sein verlust)
 der vortrag -> lecture, performance (tragen -> to carry, to sustain)
+die lektion -> lesson
 das studio -> studio
 die mode -> fashion (aus der mode -> out of fashion)
 die kritik -> review
@@ -217,6 +226,8 @@ der schlaf -> sleep (sein schlaf ist fest -> his sleep is sound)
 der karton -> box
 die messe -> trade fair
 das angebot -> offer,deal(das angebot steht noch->the offer still stands)
+die stelle -> position, spot, job (die stelle ist jetzt frei)
+	(warum gehst du nicht an meiner stelle -> why don't you go in my place)
 das stellenangebot -> job offer
 die branche -> industry
 die ware -> merchandise
@@ -290,6 +301,7 @@ die naehe -> vicinity, neighborhood
 der nachweis -> proof
 das feuer -> fire
 der schueler -> pupil
+die feuerwehr -> fire department
 der geschaeftsfuehrer -> manager
 der verkaeufer -> seller
 die arbeitserlaubnis -> work permit
@@ -320,11 +332,15 @@ januar, februar, maerz, april, mai, juni, juli, august,
 		(der monat juli - the month of july; im juni)
 die saison, die jahreszeit -> season
 das jahrhundert -> century; das jahr -> year
+das tausend -> 1000
 der kalender -> calendar; das datum -> date
 der geburtstag -> birthday 
 	(ich habe bald geburtstag -> it's my birthday soon)
 die umsetzung -> implementation
 die erfahrung -> experience
+	(hast du eine gute erfahrung damit _gemacht_ -> did you have a good
+		experience with it?)
+	(als lehrerin habe ich schon viele jahre erfahrung gesammelt)
 die einfuehrung -> introduction
 das gewicht -> weight
 die familie -> family; die tante -> aunt
@@ -362,7 +378,7 @@ die tuer -> door (die tueren)
 die umgebung -> environment
 der umgang -> handling, interaction
 	(der umgang mit elefanten ist nicht einfach)
-das ereignis -> event, incident (die reignisse der tage -> the events
+das ereignis -> event, incident (die ereignisse der tage -> the events
 	of the days)
 das mittel -> remedy, means (mit allen Mitteln -> by all means 
 	(e.g. win by ..))
@@ -474,6 +490,15 @@ das tier -> animal
 
 ============================== adverbs ==================================
 
+``` dadada ```
+darum -> about that (ich wuerde sie darum bitten -> i'd ask her for it)
+davon -> about it, from that (sie erfahrt davon?)
+	(was habe ich davon -> what do i get from that)
+dazu -> for that, about that (dazu moechte ich nichts sagen)
+dabei -> with me, with it, included 
+	(ich habe es nicht dabei -> i don't have it with me) 
+	(welches zubehoer ist dabei -> which equipment is included)
+
 ``` location ```
 seite an seite -> side by side
 weit -> far (er geht weit weg -> he goes far away)
@@ -511,8 +536,10 @@ weder ... noch ... -> neither nor (die note ist weder schlecht noch gut)
 so lange -> as long as (wir behalten sie, so lange wir koennen -> 
 	we are keeping her as long as we can)
 doch -> but (dies kannst du _doch_ nicht tun -> but you can't do this)
+sozusagen -> so to speak
 
 ``` time ```
+gewoehnlich -> normally, usually
 innerhalb _ -> within _ (innerhalb von zwei tagen -> within 2 days)
 nie -> never
 gerade -> right now
@@ -584,6 +611,9 @@ irgendwer -> somebody
 irgendwie -> somehow (diese katze ist irgendwie komisch)
 
 ``` manner ```
+ziemlich -> pretty (ziemlich gute suppe)
+gerne -> with pleasure (ich wuerde das gerne wissen -> i'd like to 
+	know that) (not that gerne is not after wuerde)
 zurueck -> back (die zuschauer kamen zurueck -> the audience came back)
 wohl -> well (ich fuehle mich nicht wohl -> i feel well)
 ernsthaft -> seriously
@@ -695,7 +725,7 @@ wichtig -> important
 	(die groesse ist _uns_ wichtig -> size is important _to_ us)
 zweite (2nd), siebte (7th), fuenfte (5th)
 sauer -> sour (die zitrone schmeckt sauer -> the lemon tastes sour)
-beeindrucker -> impressive
+beeindruckend -> impressive
 unglaublich -> unbelievable
 streng -> strict
 unsicher -> insecure
@@ -762,6 +792,13 @@ sein weg -> to be gone (der weg, die weise -> way)
 gemeinsem -> common
 
 =============================== verbs ===================================
+rutschen -> to slip, to slide
+gleiten -> to slide
+anschauen -> to look at (schauen wir uns genau diese woerter an -> let's
+	take a closer look at these words?)
+uebersetzen -> to translate
+darstellen -> to portray, to represent (wie wuerdest du das darstellen)
+	(wer wuerde mich darstellen -> who would play me)
 verletzen -> to injure 
 existieren -> to exist
 entstehen -> to arise, to form, to develop
@@ -962,6 +999,9 @@ hoeren -> to hear, to listen (accus) (ich kann dich nicht hoeren)
 zuhoeren -> to listen closely
 anhoeren sich -> to sound (es hoert sich verrueckt an -> it sounds crazy)
 aufhoeren -> to stop
+sich entwickeln -> to develop (die stadt wuerde sich so viel besser
+	entwickeln -> the city would develop much better like this)
+entwickeln -> to develop something
 gehoeren -> to belong (die institute gehoeren zu der universitaet)
 	(accus: wohin gehoerst du? wo gehoerst du hin?)(es wuerde dir gehoeren)
 messen -> to measure (er misst die temperatur)
@@ -1021,6 +1061,7 @@ sein aufgestanden -> got up (ich bin so frueh aufgestanden ->
 	i woke up early)
 linsen -> to peek
 schaffen -> to make, to cope
+verstanden -> to understand
 verfuegen ueber -> to own (meine eltern verfuegen ueber ein kleines haus)
 verschaffen -> to provide 
 handlen -> to take action, to trade
@@ -1264,12 +1305,6 @@ warum hast du _keinen_ zahnarzt -> why don't you have a dentist
 er mag dein _deutschen_ wein -> he likes the german wine
 
 =============================== stuff ===================================
-davon -> about it, from that (sie erfahrt davon?)
-	(was habe ich davon -> what do i get from that)
-dazu -> for that, about that (dazu moechte ich nichts sagen)
-dabei -> with me, with it, included 
-	(ich habe es nicht dabei -> i don't have it with me) 
-	(welches zubehoer ist dabei -> which equipment is included)
 
 jedoch -> however (es ist jedoch nicht moeglich,jedoch ist es unmoeglich)
 
@@ -1277,6 +1312,7 @@ jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
 
 ============================== phrases ==================================
+was ist mit dir -> what's the matter with you
 Danke im voraus -> thanks in advance
 lesen zwischen den linien -> read between the lines
 was soll das -> what's the point
