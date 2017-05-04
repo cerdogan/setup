@@ -51,6 +51,8 @@ so viele fische -> so many fish
 haben grossen durst -> to be very thirsty
 
 =============================== nouns ===================================
+das obst -> fruit
+das gemuese -> vegetable
 die trauben -> grapes
 das erlebnis -> experience (special), adventure
 	(das konzert war ein tolles erlebnis, das werde ich nie vergessen)
@@ -87,7 +89,7 @@ der schmerz -> pain (ich spuere den schmerz hier vorne und an der seite
 die tastatur -> keyboard
 der unterschied -> difference 
 die recherche -> research, investigation
-	(Die Recherche des Detektivs enthüllte die Wahrheit -> The detective's
+	(Die Recherche des Detektivs enthÃ¼llte die Wahrheit -> The detective's
 		investigation uncovered the truth)
 die muehe -> trouble, effort
 	(Aber niemand habe sich so recht die Muehe gemacht, ueber die 
@@ -196,7 +198,7 @@ das all -> the space
 das mal -> time (nicht das letzte mal -> not the last time)
 	(ein anderes mal -> another time)
 die uhr -> watch (wie viel uhr ist es gerade ->what time is it right now)
-	(wie spät ist es -> what time is it) (die uhrzeit -> time of the day)
+	(wie spÃ¤t ist es -> what time is it) (die uhrzeit -> time of the day)
 	(hast du die zeit -> do you have the time (to do x))
 	(was ist die aktuelle uhrzeit/zeit -> what's the current time)
 der zeitraum -> period
@@ -223,6 +225,9 @@ der hof -> courtyard
 die qualitaet -> quality
 die pension -> guest house
 der schlaf -> sleep (sein schlaf ist fest -> his sleep is sound)
+die schuessel -> bowl (ich habe eine schuessel suppe)
+der schluessel -> key
+der pappe -> cardboard
 der karton -> box
 die messe -> trade fair
 das angebot -> offer,deal(das angebot steht noch->the offer still stands)
@@ -285,7 +290,7 @@ die schau -> show
 die mitgliedshaft -> membership
 der verfasser, der autor -> author 
 der verbraucher -> customer
-das verfahren -> procedure (fahren -> to drive)
+das verfahren -> procedure (fahren -> to drive (faehrt))
 die verbesserung -> improvement
 der verlauf -> course, progress, process
 der lauf -> course, run (das ist der lauf der geschichte -> that's the 
@@ -368,12 +373,12 @@ das bad -> bath; das bett -> bed (schlief -> slept)
 die flasche -> bottle
 die treppe -> staircase
 der teppich -> rug, carpet
-das zentrum -> center; die zentrale -> headquarters
+das zentrum, der mittelpunkt -> center; die zentrale -> headquarters
 die unterkunft -> lodging, accommodation
 die stadt -> city; die hauptstadt -> capital city
 	(diese stadt sieht unheimlich aus -> this city looks scary)
 der bereich -> area
-das ladegeraet -> battery charger
+das ladegeraet -> battery charger; das geraet -> device
 die tuer -> door (die tueren)
 die umgebung -> environment
 der umgang -> handling, interaction
@@ -440,7 +445,7 @@ der anwalt, der rechtsanwalt -> attorney, lawyer; der richter -> judge
 der schuh -> shoe
 der Osten Europas -> east of Europe; Osteuropa -> eastern Europa
 das mittagessen -> lunch
-die blume -> flower; der baum -> tree
+die blume -> flower; der baum -> tree (baeume)
 die leute -> people (ich kenne keine normalen leute)
 der druck -> pressure (ohne druck -> no pressure)
 	(das formular ist im druck -> the form is in print)
@@ -500,6 +505,8 @@ dabei -> with me, with it, included
 	(welches zubehoer ist dabei -> which equipment is included)
 
 ``` location ```
+drinnen -> inside; draussen -> outside (sind sie drinnen)
+da drueben -> over there
 seite an seite -> side by side
 weit -> far (er geht weit weg -> he goes far away)
 hinaus -> out (er geht hinaus in die welt -> he goes out into the world)
@@ -662,6 +669,8 @@ zusammen, gemeinsam, miteinander? -> together
 allgemein -> generally (das ist allgemein richtig->that's generally true)
 
 ============================= adjectives ================================
+nuetzlich -> useful
+frisch -> fresh
 mehrere -> several
 unabhaengig -> independent
 verboten -> forbidden
@@ -832,23 +841,23 @@ enthuellen -> to reveal
 recherchieren -> to research
 arbeiten -> to work
 	abarbeiten -> to work through a list
-		(Die Türkei muss eine lange Liste abarbeiten, was nicht gerade 
+		(Die TÃ¼rkei muss eine lange Liste abarbeiten, was nicht gerade 
 			unproblematisch ist -> Turkey is faced with having to deliver a 
 			long list of results)
 	ausarbeiten -> to plan, to prepare, to draw up (a creative side)
 		(Wir werden einen Entwurf ausarbeiten und dann Details besprechen ->
 			We will draw up a draft and then discuss details)
 	einarbeiten -> to incorporate (to work into 1) 
-		(konkrete Ziele in ihre Pläne einarbeiten -> incorporate concrete
+		(konkrete Ziele in ihre PlÃ¤ne einarbeiten -> incorporate concrete
 			targets into their plans)
 	sich einarbeiten -> to familiarize, to learn the ropes
  		(man sich immer wieder in neue Wissensgebiete einarbeiten muss ->
 			you continually have to familiarise yourself with new areas of 
 				expertise)
 	sich erarbeiten -> to work (hard?)
-		(Die Sängerin hat sich ihren Erfolg hart erarbeitet -> The singer 
+		(Die SÃ¤ngerin hat sich ihren Erfolg hart erarbeitet -> The singer 
 			worked hard for her success)
-	bearbeiten -> to edit (Ich möchte ein Foto bearbeiten)
+	bearbeiten -> to edit (Ich mÃ¶chte ein Foto bearbeiten)
 		2-> to process (alle antraege werden innerhalb von zwei tagen
 			bearbeitet -> all applications will be processed within 2 days)
 vorschlagen -> to suggest
@@ -872,8 +881,8 @@ eintragen sich -> to enroll, to sign in
 entfernen -> to remove x
 ermoeglichen -> to make x possible
 erreichen -> to accomplish
-rundlaufen -> to run smoothly (grossvater und ich werden dafür sorgen, 
-	dass alles rund läuft)
+rundlaufen -> to run smoothly (grossvater und ich werden dafÃ¼r sorgen, 
+	dass alles rund lÃ¤uft)
 schwimmen -> to swim (bin geschwommen -> past)
 beitreten -> to join
 auftreten -> to perform?
@@ -1189,14 +1198,14 @@ hatte _ -> had _ (sie hatten _ihn_ verlassen -> they had left him)
 
 ============================ conjunctions ===============================
 wie -> like (es wird wie eine suppe gegessen ->it gets eaten like a soup)
-	(Ich bin so groß wie du)
+	(Ich bin so groÃ wie du)
 als -> as, then (ich bin grosser als du) (comparison quatity/lity etc.)
 statt -> instead of (sie macht lieber alles selbst, statt einen 
 	Handwerker zu bezahlen -> she prefers to do everything herself 
 	instead of paying for a craftsman)
 dann -> then (dann wuerden sie dafuer zahlen)
 	(wenn nicht, dann installieren sie es -> if not, then install it)
-seit -> since (Seit er seine Abschlussprüfung gemacht hat, ist er 
+seit -> since (Seit er seine AbschlussprÃ¼fung gemacht hat, ist er 
 	arbeitslos)
 seitdem -> ever since? (seitdem ich sie kenne, ist sie verheiratet)
 sowohl x als auch y -> x as well as y (ich trinke sowohl tee als auch 
@@ -1235,7 +1244,7 @@ dessen -> whose, of which, relative genitive pronouns (m, n)
 		in a village the name of which i forgot)
 	(das ist der mann, dessen frau lehrerin ist -> that's the man, whose
 		wife is a teacher)
-ich bin jemand, den Hunde mögen vs. Ich bin jemand, der Hunde mag ->
+ich bin jemand, den Hunde mÃ¶gen vs. Ich bin jemand, der Hunde mag ->
 	i am someone that dogs like vs. i am someone who likes dogs
 	
 
@@ -1303,6 +1312,7 @@ er kommt spaetestens _am_ montag -> he arrives monday at the latest
 der computer ist auf dem tisch -> the computer is on the table
 warum hast du _keinen_ zahnarzt -> why don't you have a dentist
 er mag dein _deutschen_ wein -> he likes the german wine
+er ist _in der_ dusche -> he is in the shower (die dusche)
 
 =============================== stuff ===================================
 
@@ -1312,6 +1322,8 @@ jeder (pronoun) -> everone
 jemand -> someone, somebody (pronoun)
 
 ============================== phrases ==================================
+haben sie am sonntag auf -> are they open on sunday
+das ist ein samstag -> that is a saturday
 was ist mit dir -> what's the matter with you
 Danke im voraus -> thanks in advance
 lesen zwischen den linien -> read between the lines
@@ -1324,7 +1336,7 @@ was ist schon dabei -> what's the matter with it
 es hat mir _sehr gut_ gefallen -> i liked it very much (accusative)
 	es gefaellt mir -> i like it
 ein weiterer monat und ich bin frei wie der wind.
-löcher in die luft gucken/starren -> to stare into space
+lÃ¶cher in die luft gucken/starren -> to stare into space
 im begriff zu x -> about to x (sie ist im begriff zu gehen)
 aussehen als ob -> looks like (sieht aus, als ob wir wenden -> looks like
 	we are turning around)
@@ -1341,7 +1353,6 @@ wann ist _dein naechster_ Termin? -> it's not meiner..
 	https://en.wikipedia.org/wiki/German_declension#Mixed_inflection.5B4.5D
 zahlen vs. bezahlen: in general, compatible with zahlen more general
 	- bezahlen to pay someone (not zahlen): 
-		(ich bezahle dich nicht dafür, dass du löcher in die luft guckst)
+		(ich bezahle dich nicht dafÃ¼r, dass du lÃ¶cher in die luft guckst)
 	- bezahlen -> to indicate completion (not zahlen)
 		(ist die waschmaschine bezahlt? -> Is the washing machine paid for?)
-
