@@ -1489,4 +1489,3 @@ zahlen vs. bezahlen: in general, compatible with zahlen more general
 		(ich bezahle dich nicht dafÃ¼r, dass du lÃ¶cher in die luft guckst)
 	- bezahlen -> to indicate completion (not zahlen)
 		(ist die waschmaschine bezahlt? -> Is the washing machine paid for?)
-
