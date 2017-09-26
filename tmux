@@ -1,3 +1,5 @@
+bind-key -n C-q send-prefix
+
 #######################
 #### DESIGN CHANGES ###
 #######################
