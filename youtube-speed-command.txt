@@ -1,0 +1,1 @@
+Chrome -> Youtube -> Right-click on page -> "Inspect Element" -> Console -> type "document.getElementsByTagName("video")[0].playbackRate = 5.25"
