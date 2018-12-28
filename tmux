@@ -1,4 +1,6 @@
 bind-key -n C-q send-prefix
+set -g lock-command vlock
+bind L lock-session
 
 #######################
 #### DESIGN CHANGES ###
