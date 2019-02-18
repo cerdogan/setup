@@ -44,3 +44,4 @@ endfunction
 vnoremap st :Strikethrough<CR>
 
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
+set directory=~/.vim/swapfiles/
